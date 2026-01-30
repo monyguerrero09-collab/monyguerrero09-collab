@@ -9,6 +9,11 @@ I am a determined and fast-learning Engineer in Information and Communication Te
 
 ### ♻️ [EcoTrueque (Trueque Ecológico)](https://github.com/monyguerrero09-collab/ecotrueque) 
 *A sustainable bartering platform designed to promote a circular economy.*
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/monyguerrero09-collab/ecotrueque/main/screenshot.jpg" width="300" alt="EcoTrueque Mobile Interface">
+</p>
+
 * **Role:** Lead Backend Developer & Architect.
 * **Tech Stack:** PHP (KumbiaPHP Framework), MariaDB, AdminLTE, HTML5/CSS3.
 * **Key Features:** User-to-user exchange system, inventory management, and a dedicated administrative dashboard for sustainability tracking.
@@ -24,16 +29,16 @@ I am a determined and fast-learning Engineer in Information and Communication Te
 ## 🛠️ Technical & Soft Skills
 
 * **Development:** PHP (KumbiaPHP, Laravel), SQL (MariaDB, MySQL), Web Development, Mobile App Development, Electronic Business.
-* **Specialized Fields:** Business Intelligence (BI), Human-Computer Interaction (HCI), IoT & Sensor Networks.
+* **Specialized Fields:** Business Intelligence (BI), Human-Computer Interaction (HCI), IoT & Sensor Networks (ESP32 Master-Slave).
 * **Methodologies:** Scrum, Waterfall, and Agile Project Management.
-* **Tools:** GitHub, Cisco Packet Tracer, aaPanel, DigitalOcean.
+* **Tools:** GitHub, Cisco Packet Tracer, aaPanel, DigitalOcean, Cloud Management.
 * **Soft Skills:** Multidisciplinary teamwork, critical thinking, leadership, and proactive problem-solving.
 
 ---
 
 ## 🏆 Achievements & Education
 
-* **B.S. in Information and Communication Technologies**
+* **B.S. in Information and Communication Technologies** (2020 - 2025).
 * **InnovaTec National Contest:** Two-time participant and award recipient for the development of **GreenTech** and **MediTech**.
 * **Hackatec:** Recognized participant for excellence in rapid technological development.
 * **MediTech:** Applied technology for the health sector to improve patient monitoring and data analysis.
@@ -50,23 +55,3 @@ I am a determined and fast-learning Engineer in Information and Communication Te
 
 ### ⚡ Fun Fact
 I'm a fan of sport bikes (Yamaha R-series / Kawasaki Ninja) and I'm always looking for ways to merge my passion for engineering with the world of automotive technology!
-
----
-
-## 🛠️ Technical Skills
-
-- **Backend & Web:** PHP (KumbiaPHP, Laravel), SQL (MariaDB, MySQL), Web Development.
-- **IoT & Hardware:** ESP32 Programming (Master-Slave architecture), Sensor Networks.
-- **AI & Data:** Neural Network implementation and historical data analysis.
-- **Infrastructure:** Cloud Management, TCP/IP Networking, and Cyber-security.
-- **Tools:** GitHub, Agile/Scrum Methodologies, Cisco Packet Tracer, aaPanel.
-
----
-
-## 📊 Education & Achievements
-
-- **B.S. in Information and Communication Technologies** (2020 - 2025).
-- **InnovaTec National Contest:** Two-time participant with high-impact technological projects.
-- **Focus Areas:** Data Visualization, Backend Architecture, and Software Engineering.
-
----
