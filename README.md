@@ -1,25 +1,55 @@
 # Hi there 👋, I'm Monica Elizabeth Olvera Guerrero
 
-### 🎓 TIC Engineer | Backend & Architecture | IoT & Data Enthusiast
-I am a determined and fast-learning Engineer in Information and Communication Technologies based in Querétaro, MX. My focus is on solving complex problems through technology, from embedded systems and neural networks to scalable web platforms.
+### 🎓 TIC Engineer | Web Development | IoT & Business Intelligence
+I am a determined and fast-learning Engineer in Information and Communication Technologies based in Querétaro, MX. The projects showcased here were developed as part of my academic training, where I have gained expertise in web programming, business intelligence, human-computer interaction, electronic business, and mobile application development.
 
 ---
 
-## 🚀 Projects & Work in Progress
+## 🚀 Featured Project Portfolios
 
-### ♻️ EcoTrueque (Trueque Ecológico)
+### ♻️ [EcoTrueque (Trueque Ecológico)](https://github.com/monyguerrero09-collab/ecotrueque) 
 *A sustainable bartering platform designed to promote a circular economy.*
+* **Role:** Lead Backend Developer & Architect.
 * **Tech Stack:** PHP (KumbiaPHP Framework), MariaDB, AdminLTE, HTML5/CSS3.
-* **Key Features:** User-to-user exchange system, inventory management, and a clean administrative dashboard for sustainability tracking.
+* **Key Features:** User-to-user exchange system, inventory management, and a dedicated administrative dashboard for sustainability tracking.
+
+### 🌿 [GreenTech](https://github.com/monyguerrero09-collab/greentech)
+*An award-winning energy management system focused on resource optimization.*
+* **Distinction:** Received official recognition at the **InnovaTec National Innovation Challenge**.
+* **Core Tech:** IoT integration, Business Intelligence, and Data Visualization.
+* **Impact:** Designed to improve energy efficiency through real-time monitoring and smart data analysis.
+
+---
+
+## 🛠️ Technical & Soft Skills
+
+* **Development:** PHP (KumbiaPHP, Laravel), SQL (MariaDB, MySQL), Web Development, Mobile App Development, Electronic Business.
+* **Specialized Fields:** Business Intelligence (BI), Human-Computer Interaction (HCI), IoT & Sensor Networks.
+* **Methodologies:** Scrum, Waterfall, and Agile Project Management.
+* **Tools:** GitHub, Cisco Packet Tracer, aaPanel, DigitalOcean.
+* **Soft Skills:** Multidisciplinary teamwork, critical thinking, leadership, and proactive problem-solving.
+
+---
+
+## 🏆 Achievements & Education
+
+* **B.S. in Information and Communication Technologies**
+* **InnovaTec National Contest:** Two-time participant and award recipient for the development of **GreenTech** and **MediTech**.
+* **Hackatec:** Recognized participant for excellence in rapid technological development.
+* **MediTech:** Applied technology for the health sector to improve patient monitoring and data analysis.
+
+---
+
+## 📂 Other Projects
 
 ### 🛠️ Autohere (Uber for Mechanics)
 *An on-demand service platform connecting users with professional mechanics and tool rentals.*
 * **Focus:** Database architecture, real-time service requests, and resource management.
 
-### 🧠 GreenTech & Meditec (Award-winning Research)
-* **GreenTech:** Energy management system utilizing **Neural Networks** for efficiency optimization.
-* **Meditec:** Technology applied to the health sector to improve patient monitoring and data analysis.
-* *Distinction: Double participant in the National Innovation Challenge (InnovaTec).*
+---
+
+### ⚡ Fun Fact
+I'm a fan of sport bikes (Yamaha R-series / Kawasaki Ninja) and I'm always looking for ways to merge my passion for engineering with the world of automotive technology!
 
 ---
 
@@ -40,14 +70,3 @@ I am a determined and fast-learning Engineer in Information and Communication Te
 - **Focus Areas:** Data Visualization, Backend Architecture, and Software Engineering.
 
 ---
-
-## 📫 Connect with me:
-
-- 📧 **Email:** monyguerrero.09@gmail.com
-- 📍 **Location:** Corregidora, Querétaro.
-- 💼 **Professional Background:** Experience in operations and customer service at Chedraui Selecto and Burger King, developing strong skills in leadership, multidisciplinary teamwork, and critical thinking.
-
----
-
-### ⚡ Fun Fact
-I'm a fan of sport bikes (Yamaha R-series / Kawasaki Ninja) and I'm always looking for ways to merge my passion for engineering with the world of automotive technology!
