@@ -7,56 +7,69 @@
 </p>
 
 <p align="center">
-  I am a determined and fast-learning Engineer in Information and Communication Technologies based in Querétaro, MX. My academic training has provided me with specialized expertise in web programming, business intelligence, human-computer interaction, electronic business, and mobile application development.
+  I am a determined, punctual, and highly capable TIC Engineer based in Querétaro, MX. My expertise includes web programming, business intelligence, human-computer interaction, electronic business, and mobile application development.
 </p>
 
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css" height="60" alt="web tools" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,javascript,typescript,react,py" height="50" alt="languages" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py,aws,github,arduino" height="60" alt="tech tools" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,notion,linux,ubuntu,digitalocean,apache,arduino,raspberrypi" height="50" alt="tools" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo" />
 </div>
 
 ---
 
-## 🚀 Featured Academic Projects
-*The following projects were developed as a core part of my professional training and university research.*
+## 🚀 Academic Project Portfolios
+*These projects reflect my core academic formation and research.*
 
 ### ♻️ [EcoTrueque (Sustainable Barter)](https://github.com/monyguerrero09-collab/ecotrueque) 
-*A platform designed to promote a circular economy through responsible exchange.*
+*A sustainable bartering platform designed to promote a circular economy.*
 
-<img width="367" height="806" alt="image" src="https://github.com/user-attachments/assets/bd4ae1d3-c1a4-45f0-82ae-4bfa7a26b31e" />
+<img width="728" height="1006" alt="image" src="https://github.com/user-attachments/assets/4d166541-50cd-4436-ba1e-f92c8cb59b07" />
 
 
-* **Stack:** PHP (KumbiaPHP), MariaDB, AdminLTE, HTML5/CSS3.
-* **Impact:** Developed a user-to-user exchange system and an administrative dashboard for sustainability tracking.
-
-<img width="945" height="500" alt="image" src="https://github.com/user-attachments/assets/700ffc06-443d-4400-a072-49a908da5c8a" />
+* **Role:** Lead Backend Developer & Architect.
+* **Stack:** PHP (KumbiaPHP), MariaDB, AdminLTE.
+* **Key Features:** User-to-user exchange system and inventory management.
+<img width="945" height="517" alt="image" src="https://github.com/user-attachments/assets/b947b200-0ed7-4fc0-b23c-dedc2077f543" />
 
 
 ### 🌿 GreenTech & MediTech
 *Award-winning innovation projects.*
-* **Awards:** Recognized at the **InnovaTec National Innovation Challenge**.
-* **GreenTech:** An energy management system focused on resource optimization.
-* **MediTech:** Technology applied to the healthcare sector for patient monitoring and data analysis.
+* **Awards:** Official recognitions for the development of GreenTech and MediTech at the **InnovaTec National Innovation Challenge**.
+* **GreenTech:** Energy management system focused on resource optimization.
+* **MediTech:** Healthcare technology for patient monitoring and clinical data analysis.
 
 ---
 
 ## 🛠️ Skills & Experience
 
-* **Methodologies:** Proficient in **Scrum**, **Waterfall**, and Agile frameworks.
-* **Specialized Fields:** Business Intelligence (BI), Human-Computer Interaction (HCI), Electronic Business, and Mobile Development.
-* **IoT & Hardware:** ESP32 programming (Master-Slave architecture) and sensor network deployment.
+* **Methodologies:** Proficient in **Scrum**, **Waterfall**, and Agile Project Management.
+* **IoT & Hardware:** Programming of ESP32 (Master-Slave architecture), Raspberry Pi, and Arduino.
 * **Soft Skills:** Multidisciplinary teamwork, critical thinking, leadership, and assertive technical communication.
 
 ---
 
-## 🏆 Achievements & Education
+## 🏆 Achievements
 
-* **B.S. in Information and Communication Technologies** (2020 - 2025).
-* **InnovaTec National Contest:** Two-time national participant and award recipient for high-impact technological projects.
-* **Hackatec:** Recognized participant for excellence in rapid software development.
+* **InnovaTec:** Two-time participant in the National Innovation Challenge.
+* **Hackatec:** Recognized participant for excellence in rapid technological development.
+* **B.S. in TIC:** Completing my degree with a focus on Backend Architecture and Data Visualization.
 
 ---
 
@@ -67,14 +80,5 @@
   <img src="https://github-profile-trophy.vercel.app?username=monyguerrero09-collab&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8" height="150" alt="trophy graph" />
 </div>
 
-###
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/monyguerrero09-collab/monyguerrero09-collab/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/monyguerrero09-collab/monyguerrero09-collab/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/monyguerrero09-collab/monyguerrero09-collab/output/pacman-contribution-graph.svg">
-  </picture>
-</div>
-
 ---
+
