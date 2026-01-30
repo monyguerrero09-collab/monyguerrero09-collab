@@ -40,9 +40,6 @@
 ### ♻️ [EcoTrueque (Sustainable Barter)](https://github.com/monyguerrero09-collab/ecotrueque) 
 *A sustainable bartering platform designed to promote a circular economy.*
 
-<img width="728" height="1006" alt="image" src="https://github.com/user-attachments/assets/4d166541-50cd-4436-ba1e-f92c8cb59b07" />
-
-
 * **Role:** Lead Backend Developer & Architect.
 * **Stack:** PHP (KumbiaPHP), MariaDB, AdminLTE.
 * **Key Features:** User-to-user exchange system and inventory management.
