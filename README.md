@@ -26,12 +26,14 @@
 ### ♻️ [EcoTrueque (Sustainable Barter)](https://github.com/monyguerrero09-collab/ecotrueque) 
 *A platform designed to promote a circular economy through responsible exchange.*
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/monyguerrero09-collab/ecotrueque/main/screenshot.jpg" width="300" alt="EcoTrueque Interface">
-</p>
+<img width="367" height="806" alt="image" src="https://github.com/user-attachments/assets/bd4ae1d3-c1a4-45f0-82ae-4bfa7a26b31e" />
+
 
 * **Stack:** PHP (KumbiaPHP), MariaDB, AdminLTE, HTML5/CSS3.
 * **Impact:** Developed a user-to-user exchange system and an administrative dashboard for sustainability tracking.
+
+<img width="945" height="500" alt="image" src="https://github.com/user-attachments/assets/700ffc06-443d-4400-a072-49a908da5c8a" />
+
 
 ### 🌿 GreenTech & MediTech
 *Award-winning innovation projects.*
