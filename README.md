@@ -37,7 +37,7 @@
 ## 🚀 Academic Project Portfolios
 *These projects reflect my core academic formation and research.*
 
-### ♻️ [EcoTrueque (Sustainable Barter)](https://github.com/monyguerrero09-collab/ecotrueque) 
+### ♻️ [EcoTrueque (Sustainable Barter)](https://github.com/monyguerrero09-collab/Ecotrueque) 
 *A sustainable bartering platform designed to promote a circular economy.*
 
 * **Role:** Lead Backend Developer & Architect.
