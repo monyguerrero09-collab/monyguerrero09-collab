@@ -42,6 +42,7 @@
 * **Role:** Full Stack Developer & Backend Architect.
 * **Stack:** PHP (Laravel), Livewire, PostgreSQL, Node.js (Baileys API).
 * **Key Features:** Ticket lifecycle management, role-based access control, interactive dashboard, and automated WhatsApp notifications for instant ticket updates.
+<img width="922" height="450" alt="Captura de pantalla 2026-07-29 152855" src="https://github.com/user-attachments/assets/ecc06bdf-9673-46de-a1fc-df8441d2f0a1" />
 
 ---
 
