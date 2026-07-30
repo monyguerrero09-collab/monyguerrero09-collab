@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,javascript,typescript,react,py" height="50" alt="languages" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,javascript,typescript,react,py" height="50" alt="languages" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github,vscode,notion,linux,ubuntu,digitalocean,apache,arduino,raspberrypi" height="50" alt="tools" />
 </div>
@@ -31,6 +31,17 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo" />
 </div>
+
+---
+
+## 💼 Featured Projects & Production Systems
+
+### 🎫 SupportHub (Tickets IT System)
+*An enterprise-grade internal IT ticketing system designed for automated support request management and real-time alerts.*
+
+* **Role:** Full Stack Developer & Backend Architect.
+* **Stack:** PHP (Laravel), Livewire, PostgreSQL, Node.js (Baileys API).
+* **Key Features:** Ticket lifecycle management, role-based access control, interactive dashboard, and automated WhatsApp notifications for instant ticket updates.
 
 ---
 
