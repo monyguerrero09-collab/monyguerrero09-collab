@@ -1,642 +1,265 @@
-
-<!-- =====================================================
-     MONICA OLVERA | GITHUB PROFILE README
-     Terminal Hacker · Neon Technology · Portfolio
-===================================================== -->
-
 <div align="center">
 
-<!-- TERMINAL HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:00ff9c,100:0f0f0f&height=200&section=header&text=MONY%20GUERRERO&fontSize=48&fontColor=00ff9c&fontAlignY=35&desc=Ingenier%C3%ADa%20en%20TIC%20%7C%20Software%20%2F%20Data%20%2F%20Automation&descAlignY=55&descColor=39ff14&animation=fadeIn" width="100%"/>
 
-<p>
-<code>monyguerrero09-collab@github ~ $ ./profile-scan --live</code>
-</p>
+<a href="https://github.com/monyguerrero09-collab">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=650&lines=%24+whoami;Estudiante+de+Ingenier%C3%ADa+en+TIC;Desarrolladora+de+software+en+formaci%C3%B3n;PHP+%7C+Laravel+%7C+Python+%7C+Django;Data+%2B+Power+BI+%2B+Automatizaci%C3%B3n;%24+_" alt="Typing SVG" />
+</a>
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/system-scan?username=monyguerrero09-collab&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F258127032%3Fu%3D5d2be8564809945b743511de3286aa86ec21fa25%26v%3D4&style=terminal&v=oss-system-scan-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/system-scan?username=monyguerrero09-collab&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F258127032%3Fu%3D5d2be8564809945b743511de3286aa86ec21fa25%26v%3D4&style=terminal&v=oss-system-scan-1&mode=dark" width="860" alt="Mónica Olvera animated terminal system scan" />
-</picture>
-</p>
+<br/>
 
-<p>
-<code>STATUS: ONLINE</code> · <code>BUILDING THE FUTURE</code>
-</p>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge&labelColor=0d0d0d&logo=statuspage&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/ROLE-TIC%20ENGINEERING%20STUDENT-00FFF9?style=for-the-badge&labelColor=0d0d0d&logo=codeforces&logoColor=00FFF9"/>
+<img src="https://img.shields.io/badge/LOCATION-Quer%C3%A9taro%2C%20MX-FF00E4?style=for-the-badge&labelColor=0d0d0d&logo=googlemaps&logoColor=FF00E4"/>
 
 </div>
 
----
+<br/>
 
-<!-- PROFILE -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<h2>👩‍💻 About me</h2>
-
-<p>
-<code>monyguerrero09-collab@github ~ $ whoami</code>
-</p>
+## `> whoami`
 
 <table width="100%">
 <tr>
+<td width="50%" valign="top">
 
-<td width="32%" align="center" valign="middle">
+### 🎓 Educación
 
-<!--
-  PROFILE PHOTO
+**Ingeniería en Tecnologías de la Información y Comunicaciones**
 
-  Upload your photo to:
-  assets/profile.png
-
-  Recommended:
-  Professional portrait
-  Transparent or dark background
-  Square image
--->
-
-<img src="./assets/profile.png" width="210" alt="Mónica Olvera professional profile photo" />
-
-<p>
-<strong>MÓNICA OLVERA</strong>
-</p>
-
-<p>
-<code>TIC ENGINEERING STUDENT</code>
-</p>
+Estudiante de los últimos semestres en el **Tecnológico Nacional de México, Campus San Juan del Río.**
 
 </td>
+<td width="50%" valign="top">
 
-<td width="68%" valign="top">
+### 💼 Perfil profesional
 
-<h3>🎓 Education</h3>
+Desarrolladora de software en formación, con experiencia en proyectos académicos y profesionales.
 
-<p>
-<strong>Ingeniería en Tecnologías de la Información y Comunicaciones</strong>
-</p>
-
-<p>
-Estudiante universitaria en los últimos semestres del Tecnológico
-Nacional de México, Campus San Juan del Río.
-</p>
-
-<h3>💼 Professional profile</h3>
-
-<p>
-Desarrolladora de software en formación, con experiencia en proyectos
-académicos y profesionales, innovación tecnológica, IoT y análisis de datos.
-</p>
-
-<p>
-Me interesa construir soluciones funcionales, aprender nuevas tecnologías
-y convertir ideas en proyectos que generen valor.
-</p>
-
-<p>
-<code>LEARNING</code> · <code>BUILDING</code> · <code>INNOVATING</code>
-</p>
+Interés en innovación, automatización y análisis de datos.
 
 </td>
-
 </tr>
 </table>
 
----
+> Soy una estudiante determinada, analítica y apasionada por la tecnología. Me interesa transformar ideas en soluciones funcionales mediante el desarrollo de software, la innovación tecnológica y el aprendizaje continuo.
+>
+> Durante mi trayectoria universitaria he participado en proyectos de desarrollo web, IoT, automatización y análisis de datos. También desarrollé un proyecto de software desde cero durante mi residencia profesional en **CGR, Querétaro**.
 
-<!-- QUICK PROFILE STATS -->
+<div align="center">
 
-<h2>⚡ System profile</h2>
+`BUILDING SKILLS` · `SOLVING PROBLEMS` · `LEARNING CONTINUOUSLY`
 
-<p>
-<code>monyguerrero09-collab@github ~ $ profile --details</code>
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## `> toolbox --list`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=php,laravel,py,django,html,css,js,git,github,vscode&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=Power%20BI&logoColor=F2C811&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=EA4560&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=00FFCC&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/Google_Drive-000000?style=for-the-badge&logo=googledrive&logoColor=00FF9C&labelColor=0d0d0d"/>
+
+</div>
+
+<p align="center">
+<code>WEB DEVELOPMENT</code> · <code>DATA VISUALIZATION</code> · <code>SOFTWARE ENGINEERING</code>
 </p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## `> projects --featured`
+
+<sub>💡 Haz clic en cualquier imagen para abrir el repositorio. Sustituye las URLs de imagen (`YOUR_IMAGE_URL_HERE`) por una captura real de tu proyecto cuando la tengas — mientras tanto se muestra la vista previa automática de GitHub.</sub>
 
 <table width="100%">
 <tr>
+<td width="50%" align="center">
 
-<td width="25%" align="center">
+<a href="https://github.com/monyguerrero09-collab/SupportHub">
+<img src="https://opengraph.githubassets.com/1/monyguerrero09-collab/SupportHub" width="100%" alt="SupportHub preview"/>
+</a>
 
-<h3>🎓</h3>
-<strong>Education</strong>
-<p><sub>Engineering student</sub></p>
+<h3>💼 CGR — Residencia Profesional</h3>
+
+<p><strong>Software Development · PHP · Laravel</strong></p>
+<p>Proyecto de software desarrollado desde cero durante mi residencia profesional en CGR, Querétaro (feb–ago 2026).</p>
+
+<img src="https://img.shields.io/badge/STATUS-COMPLETED-39FF14?style=flat-square&labelColor=0d0d0d"/>
+
+<p><a href="https://github.com/monyguerrero09-collab/SupportHub">→ Ver repositorio</a></p>
 
 </td>
+<td width="50%" align="center">
 
-<td width="25%" align="center">
-
-<h3>💻</h3>
-<strong>Experience</strong>
-<p><sub>CGR · Residency</sub></p>
-
-</td>
-
-<td width="25%" align="center">
-
-<h3>🚀</h3>
-<strong>Projects</strong>
-<p><sub>Software · IoT · AI</sub></p>
-
-</td>
-
-<td width="25%" align="center">
-
-<h3>📊</h3>
-<strong>Analytics</strong>
-<p><sub>Power BI</sub></p>
-
-</td>
-
-</tr>
-</table>
-
----
-
-<!-- DYNAMIC GITHUB STATS -->
-
-<h2>📡 GitHub system analytics</h2>
-
-<p>
-<code>monyguerrero09-collab@github ~ $ system-monitor --stats</code>
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=monyguerrero09-collab&show_icons=true&theme=dark&bg_color=0D1117&title_color=00E5FF&text_color=9CA3AF&icon_color=00E5FF&border_color=00E5FF&hide_border=false&rank_icon=github" width="48%" alt="GitHub statistics" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monyguerrero09-collab&layout=compact&theme=dark&bg_color=0D1117&title_color=00E5FF&text_color=9CA3AF&border_color=00E5FF" width="40%" alt="Top programming languages" />
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=monyguerrero09-collab&theme=dark&background=0D1117&border=00E5FF&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" width="70%" alt="GitHub contribution streak" />
-
-</p>
-
----
-
-<!-- TECHNOLOGIES -->
-
-<h2>🛠️ Technology stack</h2>
-
-<p>
-<code>monyguerrero09-collab@github ~ $ toolbox --load</code>
-</p>
-
-<h3>💻 Development</h3>
-
-<p align="center">
-
-<a href="https://www.php.net/">
-<img src="https://skillicons.dev/icons?i=php" width="55" alt="PHP"/>
+<a href="https://github.com/monyguerrero09-collab/SMGE">
+<img src="https://opengraph.githubassets.com/1/monyguerrero09-collab/SMGE" width="100%" alt="SMGE preview"/>
 </a>
-
-<a href="https://laravel.com/">
-<img src="https://skillicons.dev/icons?i=laravel" width="55" alt="Laravel"/>
-</a>
-
-<a href="https://www.python.org/">
-<img src="https://skillicons.dev/icons?i=python" width="55" alt="Python"/>
-</a>
-
-<a href="https://www.djangoproject.com/">
-<img src="https://skillicons.dev/icons?i=django" width="55" alt="Django"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-<img src="https://skillicons.dev/icons?i=html" width="55" alt="HTML"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-<img src="https://skillicons.dev/icons?i=css" width="55" alt="CSS"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://skillicons.dev/icons?i=javascript" width="55" alt="JavaScript"/>
-</a>
-
-</p>
-
-<h3>📊 Data & Artificial Intelligence</h3>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
-
-<img src="https://img.shields.io/badge/IoT-00E5FF?style=for-the-badge&logoColor=black" alt="IoT"/>
-
-<img src="https://img.shields.io/badge/Automation-8A2BE2?style=for-the-badge" alt="Automation"/>
-
-</p>
-
-<h3>🔧 Tools</h3>
-
-<p align="center">
-
-<a href="https://git-scm.com/">
-<img src="https://skillicons.dev/icons?i=git" width="55" alt="Git"/>
-</a>
-
-<a href="https://github.com/">
-<img src="https://skillicons.dev/icons?i=github" width="55" alt="GitHub"/>
-</a>
-
-<a href="https://code.visualstudio.com/">
-<img src="https://skillicons.dev/icons?i=vscode" width="55" alt="Visual Studio Code"/>
-</a>
-
-<a href="https://www.mysql.com/">
-<img src="https://skillicons.dev/icons?i=mysql" width="55" alt="MySQL"/>
-</a>
-
-</p>
-
-<p align="center">
-<code>SOFTWARE DEVELOPMENT</code> · <code>DATA VISUALIZATION</code> · <code>AUTOMATION</code>
-</p>
-
----
-
-<!-- FEATURED PROJECTS -->
-
-<h2>🚀 Featured projects</h2>
-
-<p>
-<code>monyguerrero09-collab@github ~ $ projects --featured --visual</code>
-</p>
-
-<!-- PROJECT 01 -->
-
-<table width="100%">
-<tr>
-
-<td width="45%" valign="top" align="center">
-
-<!-- Upload image to assets/projects/cgr.png -->
-
-<img src="./assets/projects/cgr.png" width="100%" alt="CGR professional software project preview"/>
-
-</td>
-
-<td width="55%" valign="top">
-
-<h3>💼 CGR — Professional Residency</h3>
-
-<p>
-<code>PHP</code> · <code>Laravel</code>
-</p>
-
-<p>
-Software project developed from scratch during my professional
-residency at CGR, Querétaro, from February to August 2026.
-</p>
-
-<p>
-<strong>Focus:</strong> Software development and enterprise solutions.
-</p>
-
-<p>
-<code>STATUS: PROFESSIONAL PROJECT</code>
-</p>
-
-<!-- Add a public repository or portfolio URL when available -->
-
-</td>
-
-</tr>
-</table>
-
----
-
-<!-- PROJECT 02 -->
-
-<table width="100%">
-<tr>
-
-<td width="45%" valign="top" align="center">
-
-<!-- Upload image to assets/projects/instituto-sor-juana.png -->
-
-<img src="./assets/projects/instituto-sor-juana.png" width="100%" alt="Instituto Sor Juana school management system preview"/>
-
-</td>
-
-<td width="55%" valign="top">
 
 <h3>🏫 Instituto Sor Juana</h3>
 
-<p>
-<code>Python</code> · <code>Django</code>
-</p>
+<p><strong>Python · Django</strong></p>
+<p>Software de gestión escolar desarrollado con metodología XP. Incluye alumnos, grupos, docentes, pagos y recibos.</p>
 
-<p>
-School management software developed through the XP methodology.
-The project includes students, groups, teachers, payments and receipts.
-</p>
+<img src="https://img.shields.io/badge/STATUS-ACADEMIC%20PROJECT-00FFF9?style=flat-square&labelColor=0d0d0d"/>
 
-<p>
-<strong>Focus:</strong> Web development and database management.
-</p>
+<p><a href="https://github.com/monyguerrero09-collab/SMGE">→ Ver repositorio</a></p>
 
-<p>
-<code>STATUS: ACADEMIC PROJECT</code>
-</p>
+</td>
+</tr>
 
-<a href="https://github.com/monyguerrero09-collab">
-View GitHub →
+<tr>
+<td width="50%" align="center">
+
+<a href="https://github.com/monyguerrero09-collab/EcoTrueque-Web">
+<img src="https://opengraph.githubassets.com/1/monyguerrero09-collab/EcoTrueque-Web" width="100%" alt="EcoTrueque-Web preview"/>
 </a>
-
-</td>
-
-</tr>
-</table>
-
----
-
-<!-- PROJECT 03 -->
-
-<table width="100%">
-<tr>
-
-<td width="45%" valign="top" align="center">
-
-<!-- Upload image to assets/projects/greentech.png -->
-
-<img src="./assets/projects/greentech.png" width="100%" alt="GreenTech IoT project preview"/>
-
-</td>
-
-<td width="55%" valign="top">
-
-<h3>⚡ GreenTech</h3>
-
-<p>
-<code>IoT</code> · <code>Energy Monitoring</code>
-</p>
-
-<p>
-IoT-based proposal for monitoring and managing household energy
-consumption, developed during HackaTec 2024 at Tecnológico de Pachuca.
-</p>
-
-<p>
-<strong>Focus:</strong> Innovation and interdisciplinary collaboration.
-</p>
-
-<p>
-<code>STATUS: HACKATEC 2024</code>
-</p>
-
-</td>
-
-</tr>
-</table>
-
----
-
-<!-- PROJECT 04 -->
-
-<table width="100%">
-<tr>
-
-<td width="45%" valign="top" align="center">
-
-<!-- Upload image to assets/projects/traspatio-inteligente.png -->
-
-<img src="./assets/projects/traspatio-inteligente.png" width="100%" alt="Traspatio Inteligente AI automation project preview"/>
-
-</td>
-
-<td width="55%" valign="top">
 
 <h3>🌱 Traspatio Inteligente</h3>
 
-<p>
-<code>AI</code> · <code>Automation</code> · <code>n8n</code>
-</p>
+<p><strong>Inteligencia Artificial · Automatización</strong></p>
+<p>Proyecto que integra IA, automatización y flujos de consulta documental con n8n, Pinecone y Google Drive.</p>
 
-<p>
-Project integrating artificial intelligence, automation and document
-query workflows using n8n, Pinecone and Google Drive.
-</p>
+<img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-FF00E4?style=flat-square&labelColor=0d0d0d"/>
 
-<p>
-<strong>Focus:</strong> Intelligent systems and automation.
-</p>
-
-<p>
-<code>STATUS: TECHNOLOGY PROJECT</code>
-</p>
+<p><a href="https://github.com/monyguerrero09-collab/EcoTrueque-Web">→ Ver repositorio</a></p>
 
 </td>
+<td width="50%" align="center">
 
-</tr>
-</table>
-
----
-
-<!-- BUSINESS INTELLIGENCE -->
-
-<h2>📊 Business Intelligence</h2>
-
-<p>
-<code>monyguerrero09-collab@github ~ $ analytics --dashboard</code>
-</p>
-
-<table width="100%">
-<tr>
-
-<td width="55%" valign="top">
-
-<h3>📈 Power BI Dashboard Portfolio</h3>
-
-<p>
-I develop interactive dashboards with Microsoft Power BI to explore,
-visualize and communicate data.
-</p>
-
-<p>
-My portfolio includes data visualization projects focused on
-metrics, analysis and business intelligence.
-</p>
-
-<p>
-<strong>Tools:</strong> Power BI · Data Analysis · Visualization
-</p>
-
-<p>
-<code>STATUS: ACTIVE PORTFOLIO</code>
-</p>
-
-<a href="YOUR_POWER_BI_PORTFOLIO_LINK">
-View Power BI Portfolio →
+<a href="https://github.com/monyguerrero09-collab/invitacion_josias">
+<img src="https://opengraph.githubassets.com/1/monyguerrero09-collab/invitacion_josias" width="100%" alt="GreenTech preview"/>
 </a>
 
-</td>
+<h3>⚡ GreenTech</h3>
 
-<td width="45%" valign="top" align="center">
+<p><strong>IoT · Energy Monitoring · Innovation</strong></p>
+<p>Propuesta basada en IoT para el monitoreo y gestión del consumo energético doméstico, desarrollada en HackaTec 2024 (Tec de Pachuca).</p>
 
-<!--
-  Upload a screenshot of one of your dashboards to:
-  assets/projects/powerbi-dashboard.png
--->
+<img src="https://img.shields.io/badge/STATUS-HACKATEC%202024-FFD400?style=flat-square&labelColor=0d0d0d"/>
 
-<img src="./assets/projects/powerbi-dashboard.png" width="100%" alt="Power BI dashboard preview"/>
+<p><a href="https://github.com/monyguerrero09-collab/invitacion_josias">→ Ver repositorio</a></p>
 
 </td>
-
 </tr>
 </table>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-</p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
----
+## `> analytics --dashboard`
 
-<!-- LEARNING -->
-
-<h2>📚 Currently learning</h2>
-
-<p>
-<code>monyguerrero09-collab@github ~ $ learning --current</code>
-</p>
+Exploro el análisis de datos y la visualización interactiva con **Microsoft Power BI**, creando dashboards para comunicar información y detectar insights relevantes.
 
 <table width="100%">
 <tr>
+<td width="50%" valign="top" align="center">
 
-<td width="50%" valign="top">
+### 📈 Power BI Dashboards
 
-<h3>💻 Software Engineering</h3>
+Dashboards interactivos enfocados en visualización de datos, métricas y business intelligence.
 
-<ul>
-<li>Web application development</li>
-<li>Software architecture</li>
-<li>Database management</li>
-<li>Development best practices</li>
-</ul>
+`Power BI` · `Data Analysis` · `Visualization`
+
+**[Ver dashboards →](YOUR_POWER_BI_PORTFOLIO_LINK)**
 
 </td>
+<td width="50%" valign="top" align="center">
 
-<td width="50%" valign="top">
+### 📂 Data Projects
 
-<h3>🤖 Innovation & Data</h3>
+Espacio para compartir reportes, visualizaciones y proyectos de análisis de datos.
 
-<ul>
-<li>Artificial intelligence</li>
-<li>Workflow automation</li>
-<li>Business Intelligence</li>
-<li>IoT solutions</li>
-</ul>
+`Reports` · `Insights` · `Data storytelling`
+
+**[Explorar proyectos →](YOUR_DATA_REPOSITORY_LINK)**
 
 </td>
-
 </tr>
 </table>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<!-- ACHIEVEMENTS -->
+## `> stats --github`
 
-<h2>🏆 Innovation & achievements</h2>
+<div align="center">
 
-<p>
-<code>monyguerrero09-collab@github ~ $ achievements --list</code>
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=monyguerrero09-collab&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=39FF14&icon_color=00FFF9&text_color=c9c9c9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monyguerrero09-collab&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=39FF14&text_color=c9c9c9"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=monyguerrero09-collab&theme=highcontrast&hide_border=true&background=0D0D0D&ring=39FF14&fire=FF00E4&currStreakLabel=39FF14"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=monyguerrero09-collab&theme=react-dark&hide_border=true&bg_color=0D0D0D&color=39FF14&line=00FFF9&point=FF00E4"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## `> achievements --list`
 
 <table width="100%">
 <tr>
-
 <td width="50%" valign="top">
 
-<h3>🏅 InnovaTec</h3>
+### 🏅 InnovaTec
 
-<p>
-Double participation in the National Technological Innovation Contest
-(Certamen Nacional de Innovación Tecnológica).
-</p>
+Doble participación en el Certamen Nacional de Innovación Tecnológica.
 
 </td>
-
 <td width="50%" valign="top">
 
-<h3>⚡ HackaTec 2024</h3>
+### ⚡ HackaTec 2024
 
-<p>
-Participation in an interdisciplinary project focused on IoT and
-household energy consumption monitoring.
-</p>
+Participación en proyecto interdisciplinario enfocado en IoT y monitoreo del consumo energético doméstico.
 
 </td>
-
 </tr>
 </table>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<!-- CONTRIBUTIONS -->
+## `> learning --current`
 
-<h2>📈 Contribution activity</h2>
+- 💻 Desarrollo de software y buenas prácticas de ingeniería
+- 🌐 Desarrollo web con PHP, Laravel, Python y Django
+- 📊 Análisis de datos y Business Intelligence con Power BI
+- 🤖 Inteligencia artificial y automatización
+- 🌱 Aprendizaje continuo a través de proyectos académicos y profesionales
 
-<p>
-<code>monyguerrero09-collab@github ~ $ contribution-monitor --live</code>
-</p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<p align="center">
+## `> connect --socials`
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=monyguerrero09-collab&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=false&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity graph"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=monyguerrero09-collab&repo=EcoTrueque-Web&theme=dark&bg_color=0D1117&title_color=00E5FF&text_color=9CA3AF&border_color=00E5FF" width="48%" alt="EcoTrueque Web repository"/>
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=monyguerrero09-collab&repo=SMGE&theme=dark&bg_color=0D1117&title_color=00E5FF&text_color=9CA3AF&border_color=00E5FF" width="48%" alt="SMGE repository"/>
-
-</p>
-
----
-
-<!-- CONNECT -->
-
-<h2>🤝 Let's connect</h2>
-
-<p>
-<code>monyguerrero09-collab@github ~ $ connect --open</code>
-</p>
-
-<p>
-I'm interested in connecting with professionals, students and
-organizations focused on technology, software development,
-innovation and data.
-</p>
-
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/monyguerrero09-collab">
-
-<img src="https://img.shields.io/badge/GitHub-Profile-00E5FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
-
+<img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=39FF14"/>
+</a>
+<a href="mailto:YOUR_EMAIL_HERE">
+<img src="https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=00FFF9"/>
+</a>
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=FF00E4"/>
 </a>
 
-</p>
+</div>
 
-<hr />
+<br/>
 
-<p align="center">
-<code>END OF SESSION_</code>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:00ff9c,100:0f0f0f&height=100&section=footer"/>
 
-<p align="center">
+<div align="center">
 <sub>Mónica Olvera · TIC Engineering Student · Technology & Innovation</sub>
-</p>
+</div>
 
-<p align="center">
-<a href="https://github.com/monyguerrero09-collab">GitHub</a>
-</p>
-
-<hr />
-
-<p align="center">
-<sub>Mónica Olvera · TIC Engineering Student · Technology & Innovation</sub>
-</p>
