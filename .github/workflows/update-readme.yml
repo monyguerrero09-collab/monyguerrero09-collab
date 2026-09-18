@@ -1,0 +1,16 @@
+name: Update Recent Projects
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Todos los días a medianoche
+  workflow_dispatch:     # Botón para ejecutarlo manualmente cuando quieras
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: matchai/bird-recent-activity-readme@v1.4.1
+        with:
+          GH_USERNAME: monyguerrero09-collab
+          MAX_LINES: 5
