@@ -2,15 +2,72 @@ name: Update Recent Projects
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Todos los días a medianoche
-  workflow_dispatch:     # Botón para ejecutarlo manualmente cuando quieras
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
-  build:
+  update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: matchai/bird-recent-activity-readme@v1.4.1
+      - name: Checkout repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
         with:
-          GH_USERNAME: monyguerrero09-collab
-          MAX_LINES: 5
+          node-version: 20
+
+      - name: Obtener últimos repositorios y actualizar README
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          node -e '
+          const fs = require("fs");
+          async function run() {
+            const res = await fetch("https://api.github.com/users/monyguerrero09-collab/repos?sort=updated&per_page=5", {
+              headers: {
+                "Authorization": `Bearer ${process.env.GH_TOKEN}`,
+                "User-Agent": "GitHub-Actions"
+              }
+            });
+            const repos = await res.json();
+            
+            let list = "\n";
+            for (const repo of repos) {
+              const desc = repo.description ? ` - *${repo.description}*` : "";
+              const lang = repo.language ? ` \`[${repo.language}]\`` : "";
+              list += `- 📌 **[${repo.name}](${repo.html_url})**${lang}${desc}\n`;
+            }
+            list += "\n";
+
+            let readme = fs.readFileSync("README.md", "utf8");
+            const startTag = "<!-- RECENT_ACTIVITY:start -->";
+            const endTag = "<!-- RECENT_ACTIVITY:end -->";
+
+            if (readme.includes(startTag) && readme.includes(endTag)) {
+              const before = readme.substring(0, readme.indexOf(startTag) + startTag.length);
+              const after = readme.substring(readme.indexOf(endTag));
+              readme = before + list + after;
+              fs.writeFileSync("README.md", readme);
+              console.log("README actualizado con éxito.");
+            } else {
+              console.log("No se encontraron las etiquetas RECENT_ACTIVITY.");
+            }
+          }
+          run();
+          '
+
+      - name: Guardar cambios en el repositorio
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "No hay cambios nuevos que subir."
+          else
+            git commit -m "docs: actualiza lista automatica de proyectos recientes"
+            git push
+          fi
