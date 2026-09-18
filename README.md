@@ -179,6 +179,15 @@ chatbot con Pinecone y consultas de documentos en Google Drive.
 
 <img src="assets/divider.svg" width="100%"/>
 
+<h2>📦 Latest Repositories & Activity</h2>
+
+<p><code>monyguerrero09-collab@github ~ $ repos --recent</code></p>
+
+<!-- RECENT_ACTIVITY:start -->
+<!-- RECENT_ACTIVITY:end -->
+
+<img src="assets/divider.svg" width="100%"/>
+
 <h2>📊 Data & Business Intelligence</h2>
 
 <p><code>monyguerrero09-collab@github ~ $ analytics --dashboard</code></p>
