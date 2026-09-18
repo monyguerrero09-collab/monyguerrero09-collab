@@ -9,7 +9,7 @@
 </picture>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=600&lines=whoami+%3E+ingeniera+en+TICs;compilando+ideas+en+soluciones...;PHP+%7C+Python+%7C+Laravel+%7C+Django+%7C+Power+BI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=800&color=00D2FF&center=true&vCenter=true&width=600&lines=whoami+%3E+ingeniera+en+TICs;compilando+ideas+en+soluciones...;PHP+%7C+Python+%7C+Laravel+%7C+Django+%7C+Power+BI" alt="Typing SVG" />
 
 </div>
 
@@ -18,28 +18,19 @@
 <table width="100%">
 <tr>
 <td width="33%" valign="top">
-
 <h3>Focus</h3>
-
 <p><code>Software Development</code></p>
 <p><code>IoT</code> · <code>Automation</code></p>
-
 </td>
 <td width="33%" valign="top">
-
 <h3>Education</h3>
-
 <p><code>Ingeniería en TICs</code></p>
 <p>Últimos semestres</p>
-
 </td>
 <td width="33%" valign="top">
-
 <h3>Experience</h3>
-
 <p><code>CGR</code></p>
 <p>Residencia profesional</p>
-
 </td>
 </tr>
 </table>
@@ -70,27 +61,18 @@ problemas y trabajar en proyectos interdisciplinarios.
 <table width="100%">
 <tr>
 <td width="30%" valign="top">
-
 <h3>🎓 Education</h3>
-
 <p>Ingeniería en Tecnologías de la Información y Comunicaciones</p>
 <p><sub>2022 – Actualidad</sub></p>
-
 </td>
 <td width="35%" valign="top">
-
 <h3>💼 Experience</h3>
-
 <p>Residencia profesional en CGR, Querétaro.</p>
 <p><sub>Febrero – Agosto 2026</sub></p>
-
 </td>
 <td width="35%" valign="top">
-
 <h3>🏆 Innovation</h3>
-
 <p>Doble participación en el Certamen Nacional de Innovación Tecnológica (InnovaTec).</p>
-
 </td>
 </tr>
 </table>
@@ -104,93 +86,68 @@ problemas y trabajar en proyectos interdisciplinarios.
 <table width="100%">
 <tr>
 <td width="50%" valign="top" align="center">
-
 <a href="https://github.com/monyguerrero09-collab/SupportHub">
 <img src="https://opengraph.githubassets.com/1/monyguerrero09-collab/SupportHub" width="100%" alt="CGR software project preview"/>
 </a>
-
 <h3><a href="https://github.com/monyguerrero09-collab/SupportHub">💼 CGR — Software Project</a></h3>
-
 <p>
 Proyecto de software desarrollado desde cero durante mi residencia
 profesional en CGR, Querétaro.
 </p>
-
 <p>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-00D2FF?style=flat-square&logo=php&logoColor=07101e"/>
+<img src="https://img.shields.io/badge/Laravel-0080FF?style=flat-square&logo=laravel&logoColor=white"/>
 </p>
-
 <p><sub>Professional Experience · Software Development</sub></p>
 <p><strong>Status:</strong> Completed residency</p>
-
 </td>
 <td width="50%" valign="top" align="center">
-
 <a href="https://github.com/monyguerrero09-collab/SMGE">
 <img src="https://opengraph.githubassets.com/1/monyguerrero09-collab/SMGE" width="100%" alt="Instituto Sor Juana project preview"/>
 </a>
-
 <h3><a href="https://github.com/monyguerrero09-collab/SMGE">🏫 Instituto Sor Juana</a></h3>
-
 <p>
 Sistema de gestión escolar desarrollado con metodología XP,
 incluyendo alumnos, grupos, profesores, pagos y recibos.
 </p>
-
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-00D2FF?style=flat-square&logo=python&logoColor=07101e"/>
+<img src="https://img.shields.io/badge/Django-0080FF?style=flat-square&logo=django&logoColor=white"/>
 </p>
-
 <p><sub>Academic Project · Web Development</sub></p>
-
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top" align="center">
-
 <a href="https://github.com/monyguerrero09-collab/invitacion_josias">
 <img src="https://opengraph.githubassets.com/1/monyguerrero09-collab/invitacion_josias" width="100%" alt="GreenTech project preview"/>
 </a>
-
 <h3><a href="https://github.com/monyguerrero09-collab/invitacion_josias">⚡ GreenTech</a></h3>
-
 <p>
 Propuesta IoT para monitorear y gestionar el consumo energético
 de los hogares, desarrollada durante HackaTec 2024.
 </p>
-
 <p>
-<img src="https://img.shields.io/badge/IoT-00BFA6?style=flat-square&logo=internetofthings&logoColor=white"/>
-<img src="https://img.shields.io/badge/HackaTec-2024-FFD400?style=flat-square"/>
+<img src="https://img.shields.io/badge/IoT-00D2FF?style=flat-square&logo=internetofthings&logoColor=07101e"/>
+<img src="https://img.shields.io/badge/HackaTec--2024-0080FF?style=flat-square&logoColor=white"/>
 </p>
-
 <p><sub>IoT · Innovation · Interdisciplinary Project</sub></p>
-
 </td>
 <td width="50%" valign="top" align="center">
-
 <a href="https://github.com/monyguerrero09-collab/EcoTrueque-Web">
 <img src="https://opengraph.githubassets.com/1/monyguerrero09-collab/EcoTrueque-Web" width="100%" alt="Traspatio Inteligente project preview"/>
 </a>
-
 <h3><a href="https://github.com/monyguerrero09-collab/EcoTrueque-Web">🌱 Traspatio Inteligente</a></h3>
-
 <p>
 Proyecto de automatización e inteligencia artificial con n8n,
 chatbot con Pinecone y consultas de documentos en Google Drive.
 </p>
-
 <p>
-<img src="https://img.shields.io/badge/n8n-EA4560?style=flat-square&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=00FFCC"/>
-<img src="https://img.shields.io/badge/Google_Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white"/>
+<img src="https://img.shields.io/badge/n8n-00D2FF?style=flat-square&logo=n8n&logoColor=07101e"/>
+<img src="https://img.shields.io/badge/Pinecone-0080FF?style=flat-square&logo=pinecone&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Drive-0055A5?style=flat-square&logo=googledrive&logoColor=white"/>
 </p>
-
 <p><sub>AI · Automation · Distributed Systems</sub></p>
-
 </td>
 </tr>
 </table>
@@ -208,58 +165,38 @@ la toma de decisiones.
 <table width="100%">
 <tr>
 <td width="50%" valign="top" align="center">
-
 <a href="YOUR_POWER_BI_DASHBOARD_LINK">
 <img src="YOUR_DASHBOARD_SCREENSHOT_URL" width="100%" alt="Power BI dashboard preview"/>
 </a>
-
 <h3>📈 Power BI Dashboards</h3>
-
 <p>
 Visualización y análisis de datos mediante dashboards interactivos
 con Microsoft Power BI.
 </p>
-
 <p>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Power_BI-00D2FF?style=flat-square&logo=powerbi&logoColor=07101e"/>
 </p>
-
 <p><sub>Data Analysis · Data Visualization · Business Intelligence</sub></p>
 <p><strong><a href="YOUR_POWER_BI_DASHBOARD_LINK">→ Ver dashboard</a></strong></p>
-
 </td>
 <td width="50%" valign="top" align="center">
-
 <a href="YOUR_DATA_REPOSITORY_LINK">
 <img src="https://opengraph.githubassets.com/1/monyguerrero09-collab/monyguerrero09-collab" width="100%" alt="Portfolio preview"/>
 </a>
-
 <h3>📂 Portfolio</h3>
-
 <p>
 Aquí compartiré proyectos de análisis de datos, visualizaciones
 y soluciones tecnológicas desarrolladas durante mi formación.
 </p>
-
 <p>
-<img src="https://img.shields.io/badge/Reports-39FF14?style=flat-square"/>
-<img src="https://img.shields.io/badge/Insights-00FFF9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Reports-00D2FF?style=flat-square&logoColor=07101e"/>
+<img src="https://img.shields.io/badge/Insights-0080FF?style=flat-square&logoColor=white"/>
 </p>
-
 <p><sub>Projects · Reports · Insights</sub></p>
 <p><strong><a href="YOUR_DATA_REPOSITORY_LINK">→ Explorar proyectos</a></strong></p>
-
 </td>
 </tr>
 </table>
-
-<!--
-Cuando tengas más dashboards, duplica este bloque:
-
-<h3>📊 Nombre del dashboard</h3>
-<p>Descripción breve del problema de negocio y los insights.</p>
-<p><a href="YOUR_POWER_BI_LINK">Ver dashboard</a></p>
--->
 
 <h2>🛠️ Open-source toolbox</h2>
 
@@ -277,9 +214,9 @@ Cuando tengas más dashboards, duplica este bloque:
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/n8n-EA4560?style=for-the-badge&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=00FFCC"/>
+<img src="https://img.shields.io/badge/Power_BI-00D2FF?style=for-the-badge&logo=powerbi&logoColor=07101e"/>
+<img src="https://img.shields.io/badge/n8n-0080FF?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pinecone-07101e?style=for-the-badge&logo=pinecone&logoColor=00D2FF"/>
 </p>
 
 <p align="center">
@@ -291,14 +228,10 @@ Cuando tengas más dashboards, duplica este bloque:
 <p><code>monyguerrero09-collab@github ~ $ analytics --github</code></p>
 
 <div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=monyguerrero09-collab&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=39FF14&icon_color=00FFF9&text_color=c9c9c9"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monyguerrero09-collab&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=39FF14&text_color=c9c9c9"/>
-
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=monyguerrero09-collab&show_icons=true&hide_border=true&bg_color=07101e&title_color=00D2FF&icon_color=0080FF&text_color=94a3b8"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monyguerrero09-collab&layout=compact&hide_border=true&bg_color=07101e&title_color=00D2FF&text_color=94a3b8"/>
 <br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=monyguerrero09-collab&theme=highcontrast&hide_border=true&background=0D0D0D&ring=39FF14&fire=FF00E4&currStreakLabel=39FF14"/>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=monyguerrero09-collab&hide_border=true&background=07101e&ring=00D2FF&fire=0080FF&currStreakLabel=00D2FF&sideNums=94a3b8&sideLabels=94a3b8&dates=94a3b8"/>
 </div>
 
 <h2>🔥 Contribution trail</h2>
@@ -326,18 +259,12 @@ Cuando tengas más dashboards, duplica este bloque:
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-
 <h3>🏅 InnovaTec</h3>
-
 <p>Doble participación en el Certamen Nacional de Innovación Tecnológica.</p>
-
 </td>
 <td width="50%" valign="top">
-
 <h3>💡 Innovation projects</h3>
-
 <p>Participación en proyectos tecnológicos e interdisciplinarios durante mi formación universitaria.</p>
-
 </td>
 </tr>
 </table>
@@ -351,13 +278,13 @@ with people interested in technology, innovation and software development.
 
 <p align="center">
 <a href="https://github.com/monyguerrero09-collab">
-<img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/GitHub-07101e?style=for-the-badge&logo=github&logoColor=00D2FF"/>
 </a>
 <a href="mailto:YOUR_EMAIL_HERE">
-<img src="https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=00FFF9"/>
+<img src="https://img.shields.io/badge/Email-07101e?style=for-the-badge&logo=gmail&logoColor=00D2FF"/>
 </a>
 <a href="YOUR_LINKEDIN_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=FF00E4"/>
+<img src="https://img.shields.io/badge/LinkedIn-07101e?style=for-the-badge&logo=linkedin&logoColor=00D2FF"/>
 </a>
 </p>
 
