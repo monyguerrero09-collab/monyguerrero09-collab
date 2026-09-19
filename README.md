@@ -4,132 +4,14 @@
 
 <p><code>monyguerrero09-collab@github ~ $ ./maintainer.sh --deploy-spec</code></p>
 
-<!-- ==================== ANIMATED HUD & LIVE SYSTEM SCAN ==================== -->
+<p><strong><code>● LIVE</code></strong> <code>system scan: online · holographic interface active</code></p>
+
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/system-scan?username=monyguerrero09-collab&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F258127032%3Fu%3D5d2be8564809945b743511de3286aa86ec21fa25%26v%3D4&style=terminal&v=oss-system-scan-1&mode=light" />
   <img src="https://www.gitskins.com/api/section/system-scan?username=monyguerrero09-collab&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F258127032%3Fu%3D5d2be8564809945b743511de3286aa86ec21fa25%26v%3D4&style=terminal&v=oss-system-scan-1&mode=dark" width="860" alt="Mónica Olvera animated maintainer system scan" />
 </picture>
 </p>
-
-<!-- ==================== LIVE TERMINAL SCANNER & ASCII HOLOGRAM HUD ==================== -->
-<table width="100%" style="background-color: #05070d; border: 1px solid #00E5FF; border-radius: 12px; border-collapse: separate; padding: 12px;">
-<tr>
-<td colspan="2" style="background-color: #0c1326; border-bottom: 1px solid #1c2b54; padding: 8px 14px; border-radius: 8px 8px 0 0;">
-  <span style="color: #ff5f56;">●</span> <span style="color: #ffbd2e;">●</span> <span style="color: #27c93f;">●</span>
-  &nbsp;&nbsp;
-  <code><b>monyguerrero09-collab@github ~ $ ./profile-scan --live</b></code>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <span align="right" style="color: #00E5FF; font-weight: bold;">● LIVE</span>
-</td>
-</tr>
-<tr>
-<td width="46%" valign="top" style="background-color: #060a14; border: 1px solid #1c2b54; border-radius: 8px; padding: 12px;">
-<p style="color: #00E5FF; margin: 0 0 6px 0;"><code><b>[ VISUAL.MAP // HOLO_STABLE ]</b></code></p>
-<pre style="color: #00E5FF; font-family: 'Courier New', monospace; font-size: 10.5px; line-height: 1.15; margin: 0; font-weight: bold;">
-                 S##S#S#s
-                ##%S#####
-               %%%%##   -:#
-              s@%##%S  -::: #
-             S%%%#%%S   s   S
-             ###%%s
-            ###%%@s         s
-           S#%%S#%s         - #
-           S%%%%scSc        - #S
-          s#%%%#%@#s       - #S
-         s###@@%@%SSss%%%%%%s
-        SS######@#sscc%@%%%%#SS#
-       S%%SS#@@%%S**c%%%#%S%%%##%
-      %#S#%######S*+s%%%%%#@%%S%%
-      SS%S%#####==-s#%%%@%%%%%%#
-     ##############==++%%%%%@%%%%#
-   #s%%#%%#####%c=sc##########%%%%
-   #########%@%S=---c%%%%%@%%%%%%
-   %%%%%%%@%@%###---==%%%%%%%%%%%
-   %%%%%@%@%%%%%`    `%%%%%%%%%%%
-   #####%@%%%%%..... +%%%%%%%%%%%#
-   %%%%#%@@%%%%.....  `%%%%%%%%@%%%
-  %%#@%@%@%%%%`.....  `%%%%%%%%%%#
- #######@%%%%%....... %%%%%%%%%%%#
- %%%%%%%%%%%%%c*****c%%%@@@%@%%%
- #   %%%%%%%%%c=--:*%%%%@%@%@%%
-        %%%%%+-`  ;*s%%%%%%%%%%#
-        %%%@#sc=-SSc##########s
-  SS     S%SS%#*:-SS##########
-  SSs s        %s::- @@%%%%%%%%%%
-  Ss#   s      ss%   - S%@%%%#####
-  SS#   ss  s  S%   :       %%%%%%
-   #SS  SSss sSS#          %%%%%#
-   S### SSSSSS# ss          %%%#%
-</pre>
-<p align="right" style="color: #475569; font-size: 9px; margin: 6px 0 0 0;"><code>SENSOR: BIO_OPTIC_09 | LASER_ACTIVE</code></p>
-</td>
-
-<td width="54%" valign="top" style="background-color: #060a14; border: 1px solid #1c2b54; border-radius: 8px; padding: 12px;">
-<p style="color: #00E5FF; margin: 0 0 8px 0;"><code><b>[ SYSTEM.INFO // TELEMETRY_STREAM ]</b></code></p>
-<table width="100%" style="border-collapse: collapse; font-family: monospace; font-size: 11.5px; color: #cbd5e1;">
-  <tr>
-    <td style="color: #00E5FF; padding: 3px 0;"><b>Subject</b></td>
-    <td style="color: #1e293b;">····················</td>
-    <td align="right" style="color: #ffffff; font-weight: bold;">Mónica Olvera</td>
-  </tr>
-  <tr>
-    <td style="color: #00E5FF; padding: 3px 0;"><b>Handle</b></td>
-    <td style="color: #1e293b;">····················</td>
-    <td align="right"><a href="https://github.com/monyguerrero09-collab" style="color: #00E5FF; text-decoration: none;">@monyguerrero09-collab</a></td>
-  </tr>
-  <tr>
-    <td style="color: #00E5FF; padding: 3px 0;"><b>Role</b></td>
-    <td style="color: #1e293b;">····················</td>
-    <td align="right" style="color: #f1f5f9;">Ingeniera en TICs | Amable, sonriente</td>
-  </tr>
-  <tr>
-    <td style="color: #00E5FF; padding: 3px 0;"><b>Status</b></td>
-    <td style="color: #1e293b;">····················</td>
-    <td align="right" style="color: #00F59B; font-weight: bold;">Building | Learning | Shipping</td>
-  </tr>
-  <tr>
-    <td style="color: #00E5FF; padding: 3px 0;"><b>Languages</b></td>
-    <td style="color: #1e293b;">····················</td>
-    <td align="right" style="color: #cbd5e1;">Blade, PHP, HTML, JavaScript, Python</td>
-  </tr>
-  <tr>
-    <td style="color: #00E5FF; padding: 3px 0;"><b>Repositories</b></td>
-    <td style="color: #1e293b;">····················</td>
-    <td align="right" style="color: #00E5FF; font-weight: bold;">6</td>
-  </tr>
-  <tr>
-    <td style="color: #00E5FF; padding: 3px 0;"><b>Contributions</b></td>
-    <td style="color: #1e293b;">····················</td>
-    <td align="right" style="color: #00F59B; font-weight: bold;">59</td>
-  </tr>
-  <tr>
-    <td style="color: #00E5FF; padding: 3px 0;"><b>Stars</b></td>
-    <td style="color: #1e293b;">····················</td>
-    <td align="right" style="color: #facc15; font-weight: bold;">0</td>
-  </tr>
-  <tr>
-    <td style="color: #00E5FF; padding: 3px 0;"><b>Followers</b></td>
-    <td style="color: #1e293b;">····················</td>
-    <td align="right" style="color: #c084fc; font-weight: bold;">0</td>
-  </tr>
-  <tr>
-    <td style="color: #00E5FF; padding: 3px 0;"><b>Active Days</b></td>
-    <td style="color: #1e293b;">····················</td>
-    <td align="right" style="color: #00E5FF; font-weight: bold;">9</td>
-  </tr>
-  <tr>
-    <td style="color: #00E5FF; padding: 3px 0;"><b>Contact</b></td>
-    <td style="color: #1e293b;">····················</td>
-    <td align="right"><a href="https://github.com/monyguerrero09-collab" style="color: #00E5FF; text-decoration: none;">github.com/monyguerrero09-collab</a></td>
-  </tr>
-</table>
-<p align="right" style="color: #475569; font-size: 9px; margin: 8px 0 0 0;"><code>IDENTITY_SECURED // SHA-256 // gitskins.com</code></p>
-</td>
-</tr>
-</table>
-
-<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=620&lines=whoami+%3E+ingeniera+en+TICs;compilando+ideas+en+soluciones...;PHP+%7C+Python+%7C+Laravel+%7C+Django+%7C+Power+BI" alt="Typing SVG" />
 
@@ -309,6 +191,7 @@ chatbot con Pinecone y consultas de documentos en Google Drive.
 - 📌 **[SMGE](https://github.com/monyguerrero09-collab/SMGE)** `[Blade]`
 - 📌 **[SupportHub](https://github.com/monyguerrero09-collab/SupportHub)** `[Blade]` - *IT ticketing and support management platform built with Laravel, Livewire, and PostgreSQL. Features real-time automated WhatsApp notifications.*
 - 📌 **[invitacion_josias](https://github.com/monyguerrero09-collab/invitacion_josias)**
+
 <!-- RECENT_ACTIVITY:end -->
 
 <img src="assets/divider.svg" width="100%"/>
@@ -327,7 +210,7 @@ la toma de decisiones.
 <tr>
 <td width="50%" valign="top">
 <p><code>&gt; /analytics/power-bi-dashboards</code></p>
-<a href="https://github.com/monyguerrero09-collab">
+<a href="YOUR_POWER_BI_DASHBOARD_LINK">
   <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&auto=format&fit=crop&q=60" width="100%" alt="Power BI dashboard preview" style="border: 1px solid #1e293b; border-radius: 4px;"/>
 </a>
 <h3>📈 Power BI Dashboards</h3>
@@ -340,12 +223,12 @@ con Microsoft Power BI.
 <img src="https://img.shields.io/badge/DAX-222B38?style=flat-square&logoColor=F0F6FC"/>
 </p>
 <p><sub>Data Analysis · Data Visualization · Business Intelligence</sub></p>
-<p><strong><a href="https://github.com/monyguerrero09-collab">→ Ver dashboard</a></strong></p>
+<p><strong><a href="YOUR_POWER_BI_DASHBOARD_LINK">→ Ver dashboard</a></strong></p>
 </td>
 
 <td width="50%" valign="top">
 <p><code>&gt; /analytics/portfolio-reports</code></p>
-<a href="https://github.com/monyguerrero09-collab">
+<a href="YOUR_DATA_REPOSITORY_LINK">
   <img src="https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?w=800&auto=format&fit=crop&q=60" width="100%" alt="Portfolio preview" style="border: 1px solid #1e293b; border-radius: 4px;"/>
 </a>
 <h3>📂 Portfolio</h3>
@@ -358,7 +241,7 @@ y soluciones tecnológicas desarrolladas durante mi formación.
 <img src="https://img.shields.io/badge/Insights-222B38?style=flat-square&logoColor=F0F6FC"/>
 </p>
 <p><sub>Projects · Reports · Insights</sub></p>
-<p><strong><a href="https://github.com/monyguerrero09-collab">→ Explorar proyectos</a></strong></p>
+<p><strong><a href="YOUR_DATA_REPOSITORY_LINK">→ Explorar proyectos</a></strong></p>
 </td>
 </tr>
 </table>
@@ -460,7 +343,7 @@ with people interested in technology, innovation and software development.
 <a href="mailto:YOUR_EMAIL_HERE">
 <img src="https://img.shields.io/badge/Email-0B0D12?style=for-the-badge&logo=gmail&logoColor=00E5FF"/>
 </a>
-<a href="https://linkedin.com">
+<a href="YOUR_LINKEDIN_LINK">
 <img src="https://img.shields.io/badge/LinkedIn-0B0D12?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
 </a>
 </p>
