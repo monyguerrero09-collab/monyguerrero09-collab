@@ -8,22 +8,9 @@
 
 </p>
 
-<!-- QUICK HUD NAVIGATION -->
-<p align="center">
-  <a href="#about"><img src="https://img.shields.io/badge/01-About-0B0D12?style=flat-square&labelColor=222B38&color=00E5FF" alt="About"/></a>
-  <a href="#journey"><img src="https://img.shields.io/badge/02-Journey-0B0D12?style=flat-square&labelColor=222B38&color=00E5FF" alt="Journey"/></a>
-  <a href="#projects"><img src="https://img.shields.io/badge/03-Projects-0B0D12?style=flat-square&labelColor=222B38&color=00E5FF" alt="Projects"/></a>
-  <a href="#data-bi"><img src="https://img.shields.io/badge/04-Data_%26_BI-0B0D12?style=flat-square&labelColor=222B38&color=00E5FF" alt="Data BI"/></a>
-  <a href="#toolbox"><img src="https://img.shields.io/badge/05-Toolbox-0B0D12?style=flat-square&labelColor=222B38&color=00E5FF" alt="Toolbox"/></a>
-  <a href="#activity"><img src="https://img.shields.io/badge/06-Activity-0B0D12?style=flat-square&labelColor=222B38&color=00E5FF" alt="Activity"/></a>
-  <a href="#connect"><img src="https://img.shields.io/badge/07-Connect-0B0D12?style=flat-square&labelColor=222B38&color=00E5FF" alt="Connect"/></a>
-</p>
-
 <div align="center">
 
 <p><code>monyguerrero09-collab@github ~ $ ./maintainer.sh --deploy-spec</code></p>
-
-<p><strong><code>● LIVE</code></strong> <code>system scan: online · holographic interface active</code></p>
 
 <pre>
 $ system.boot()
