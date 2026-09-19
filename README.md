@@ -1,3 +1,18 @@
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- VISUAL DESIGN LAYER — CONTENT PRESERVED                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0D12,45:101827,100:00E5FF&height=120&section=header&text=MONY%20GUERRERO&fontSize=30&fontColor=F0F6FC&animation=twinkling&fontAlignY=35" width="100%" alt="Futuristic header"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/◈_SYSTEM-ONLINE-00E5FF?style=for-the-badge&labelColor=0B0D12"/>
+  <img src="https://img.shields.io/badge/◈_MODE-FUTURISTIC-00F59B?style=for-the-badge&labelColor=0B0D12"/>
+  <img src="https://img.shields.io/badge/◈_BUILD-2026-8B5CF6?style=for-the-badge&labelColor=0B0D12"/>
+</p>
+
 <div align="center">
 
 <img src="assets/banner.svg" width="100%" alt="Mony Guerrero Ultra Tech Banner"/>
@@ -273,6 +288,25 @@ y soluciones tecnológicas desarrolladas durante mi formación.
 <sub>Technologies and tools to be updated according to my current projects.</sub>
 </p>
 
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- RADAR VISUALIZATION — STATIC IMAGE, GITHUB COMPATIBLE          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h3 align="center">◈ TECHNICAL CAPABILITY MATRIX</h3>
+
+<p align="center">
+  <img
+    src="https://quickchart.io/chart?width=760&height=470&backgroundColor=%230B0D12&c={type:%27radar%27,data:{labels:[%27PHP%20/%20Laravel%27,%27Python%20/%20Django%27,%27Power%20BI%20/%20DAX%27,%27IoT%27,%27n8n%27,%27Bases%20de%20datos%27],datasets:[{label:%27Skill%20profile%27,data:[88,86,94,78,82,84],backgroundColor:%27rgba(0,229,255,0.18)%27,borderColor:%27%2300E5FF%27,pointBackgroundColor:%27%2300F59B%27,pointBorderColor:%27%23F0F6FC%27,borderWidth:2}]},options:{plugins:{legend:{display:false}},scales:{r:{min:0,max:100,ticks:{display:false,stepSize:20},grid:{color:%27rgba(169,178,188,0.22)%27},angleLines:{color:%27rgba(169,178,188,0.28)%27},pointLabels:{color:%27%23F0F6FC%27,font:{size:13,weight:%27bold%27}}}}}}"
+    width="760"
+    alt="Radar chart showing technical capability areas"
+  />
+</p>
+
+<p align="center">
+  <sub>Static, GitHub-compatible visualization · No JavaScript required</sub>
+</p>
+
 <img src="assets/divider.svg" width="100%"/>
 
 <h2>📈 Contribution activity</h2>
@@ -352,4 +386,12 @@ with people interested in technology, innovation and software development.
 
 <p align="center">
 <sub>Mónica Olvera · Engineering student · Technology & Innovation</sub>
+</p>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- FOOTER VISUAL                                                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:101827,100:0B0D12&height=90&section=footer" width="100%" alt="Futuristic footer"/>
 </p>
