@@ -8,14 +8,6 @@
 
 </p>
 
-<!-- TELEMETRY BADGES -->
-<p align="center">
-  <img src="https://img.shields.io/badge/◈_SYSTEM-ONLINE-00E5FF?style=for-the-badge&labelColor=0B0D12" alt="System Online"/>
-  <img src="https://img.shields.io/badge/◈_MODE-FUTURISTIC-00F59B?style=for-the-badge&labelColor=0B0D12" alt="Mode Futuristic"/>
-  <img src="https://img.shields.io/badge/◈_BUILD-2026-8B5CF6?style=for-the-badge&labelColor=0B0D12" alt="Build 2026"/>
-  <img src="https://img.shields.io/badge/◈_VERSION-2.0-00E5FF?style=for-the-badge&labelColor=0B0D12" alt="Version 2.0"/>
-</p>
-
 <!-- QUICK HUD NAVIGATION -->
 <p align="center">
   <a href="#about"><img src="https://img.shields.io/badge/01-About-0B0D12?style=flat-square&labelColor=222B38&color=00E5FF" alt="About"/></a>
