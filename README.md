@@ -1,32 +1,31 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- VISUAL DESIGN LAYER — CONTENT PRESERVED                        -->
+<!-- VISUAL DESIGN LAYER — 100% GITHUB COMPATIBLE & OPTIMIZED      -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0D12,45:101827,100:00E5FF&height=140&section=header&text=MONY%20GUERRERO&fontSize=32&fontColor=F0F6FC&animation=twinkling&fontAlignY=38&desc=Ingenier%C3%ADa%20en%20TICs%20%C2%B7%20Software%20%26%20Automatizaci%C3%B3n&descAlignY=58&descSize=15&descColor=00E5FF" width="100%" alt="Futuristic header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0D12,45:101827,100:00E5FF&height=150&section=header&text=MONY%20GUERRERO&fontSize=32&fontColor=F0F6FC&animation=twinkling&fontAlignY=38&desc=Ingenier%C3%ADa%20en%20TICs%20%C2%B7%20Software%20%26%20Automatizaci%C3%B3n&descAlignY=60&descSize=15&descColor=00E5FF" width="100%" alt="Futuristic header"/>
 </p>
 
+<!-- TELEMETRY BADGES -->
 <p align="center">
-  <img src="https://img.shields.io/badge/◈_SYSTEM-ONLINE-00E5FF?style=for-the-badge&labelColor=0B0D12"/>
-  <img src="https://img.shields.io/badge/◈_MODE-FUTURISTIC-00F59B?style=for-the-badge&labelColor=0B0D12"/>
-  <img src="https://img.shields.io/badge/◈_BUILD-2026-8B5CF6?style=for-the-badge&labelColor=0B0D12"/>
-  <img src="https://img.shields.io/badge/◈_VERSION-2.0-00E5FF?style=for-the-badge&labelColor=0B0D12"/>
+  <img src="https://img.shields.io/badge/◈_SYSTEM-ONLINE-00E5FF?style=for-the-badge&labelColor=0B0D12" alt="System Online"/>
+  <img src="https://img.shields.io/badge/◈_MODE-FUTURISTIC-00F59B?style=for-the-badge&labelColor=0B0D12" alt="Mode Futuristic"/>
+  <img src="https://img.shields.io/badge/◈_BUILD-2026-8B5CF6?style=for-the-badge&labelColor=0B0D12" alt="Build 2026"/>
+  <img src="https://img.shields.io/badge/◈_VERSION-2.0-00E5FF?style=for-the-badge&labelColor=0B0D12" alt="Version 2.0"/>
 </p>
 
-<!-- QUICK NAV -->
+<!-- QUICK HUD NAVIGATION -->
 <p align="center">
-<a href="#about"><img src="https://img.shields.io/badge/01-About-0B0D12?style=flat-square&labelColor=222B38&color=00E5FF"/></a>
-<a href="#journey"><img src="https://img.shields.io/badge/02-Journey-0B0D12?style=flat-square&labelColor=222B38&color=00E5FF"/></a>
-<a href="#projects"><img src="https://img.shields.io/badge/03-Projects-0B0D12?style=flat-square&labelColor=222B38&color=00E5FF"/></a>
-<a href="#data-bi"><img src="https://img.shields.io/badge/04-Data_%26_BI-0B0D12?style=flat-square&labelColor=222B38&color=00E5FF"/></a>
-<a href="#toolbox"><img src="https://img.shields.io/badge/05-Toolbox-0B0D12?style=flat-square&labelColor=222B38&color=00E5FF"/></a>
-<a href="#activity"><img src="https://img.shields.io/badge/06-Activity-0B0D12?style=flat-square&labelColor=222B38&color=00E5FF"/></a>
-<a href="#connect"><img src="https://img.shields.io/badge/07-Connect-0B0D12?style=flat-square&labelColor=222B38&color=00E5FF"/></a>
+  <a href="#about"><img src="https://img.shields.io/badge/01-About-0B0D12?style=flat-square&labelColor=222B38&color=00E5FF" alt="About"/></a>
+  <a href="#journey"><img src="https://img.shields.io/badge/02-Journey-0B0D12?style=flat-square&labelColor=222B38&color=00E5FF" alt="Journey"/></a>
+  <a href="#projects"><img src="https://img.shields.io/badge/03-Projects-0B0D12?style=flat-square&labelColor=222B38&color=00E5FF" alt="Projects"/></a>
+  <a href="#data-bi"><img src="https://img.shields.io/badge/04-Data_%26_BI-0B0D12?style=flat-square&labelColor=222B38&color=00E5FF" alt="Data BI"/></a>
+  <a href="#toolbox"><img src="https://img.shields.io/badge/05-Toolbox-0B0D12?style=flat-square&labelColor=222B38&color=00E5FF" alt="Toolbox"/></a>
+  <a href="#activity"><img src="https://img.shields.io/badge/06-Activity-0B0D12?style=flat-square&labelColor=222B38&color=00E5FF" alt="Activity"/></a>
+  <a href="#connect"><img src="https://img.shields.io/badge/07-Connect-0B0D12?style=flat-square&labelColor=222B38&color=00E5FF" alt="Connect"/></a>
 </p>
 
 <div align="center">
-
-<img src="assets/banner.svg" width="100%" alt="Mony Guerrero Ultra Tech Banner"/>
 
 <p><code>monyguerrero09-collab@github ~ $ ./maintainer.sh --deploy-spec</code></p>
 
@@ -40,6 +39,7 @@ $ system.boot()
 &gt; status: <strong>ONLINE</strong> ✅
 </pre>
 
+<!-- LIVE SYSTEM SCAN VIA GITSKINS -->
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/system-scan?username=monyguerrero09-collab&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F258127032%3Fu%3D5d2be8564809945b743511de3286aa86ec21fa25%26v%3D4&style=terminal&v=oss-system-scan-1&mode=light" />
@@ -51,7 +51,8 @@ $ system.boot()
 
 </div>
 
-<img src="assets/divider.svg" width="100%"/>
+<!-- NEON CYBER DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:00F59B,100:0B0D12&height=3&section=header" width="100%" alt="Divider"/>
 
 <a name="about"></a>
 <h2>👩‍💻 About me</h2>
@@ -95,7 +96,8 @@ IoT y automatización, fortaleciendo mis habilidades para resolver
 problemas y trabajar en proyectos interdisciplinarios.
 </p>
 
-<img src="assets/divider.svg" width="100%"/>
+<!-- NEON CYBER DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:00F59B,100:0B0D12&height=3&section=header" width="100%" alt="Divider"/>
 
 <a name="journey"></a>
 <h2>🔭 Professional journey</h2>
@@ -121,7 +123,8 @@ problemas y trabajar en proyectos interdisciplinarios.
 </tr>
 </table>
 
-<img src="assets/divider.svg" width="100%"/>
+<!-- NEON CYBER DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:00F59B,100:0B0D12&height=3&section=header" width="100%" alt="Divider"/>
 
 <a name="projects"></a>
 <h2>🚀 Featured projects</h2>
@@ -218,7 +221,8 @@ chatbot con Pinecone y consultas de documentos en Google Drive.
 </tr>
 </table>
 
-<img src="assets/divider.svg" width="100%"/>
+<!-- NEON CYBER DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:00F59B,100:0B0D12&height=3&section=header" width="100%" alt="Divider"/>
 
 <h2>📦 Latest Repositories & Activity</h2>
 
@@ -232,7 +236,8 @@ chatbot con Pinecone y consultas de documentos en Google Drive.
 - 📌 **[invitacion_josias](https://github.com/monyguerrero09-collab/invitacion_josias)**
 <!-- RECENT_ACTIVITY:end -->
 
-<img src="assets/divider.svg" width="100%"/>
+<!-- NEON CYBER DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:00F59B,100:0B0D12&height=3&section=header" width="100%" alt="Divider"/>
 
 <a name="data-bi"></a>
 <h2>📊 Data & Business Intelligence</h2>
@@ -248,7 +253,7 @@ que faciliten interpretar información y tomar decisiones efectivas.
 <tr>
 <td width="50%" valign="top">
 <p><code>&gt; /analytics/power-bi-dashboards</code></p>
-<a href="YOUR_POWER_BI_DASHBOARD_LINK">
+<a href="https://github.com/monyguerrero09-collab">
   <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&auto=format&fit=crop&q=60" width="100%" alt="Power BI dashboard preview" style="border: 1px solid #1e293b; border-radius: 6px;"/>
 </a>
 <h3>📈 Power BI Dashboards</h3>
@@ -260,12 +265,12 @@ con Microsoft Power BI.
 <img src="https://img.shields.io/badge/Power_BI-0B0D12?style=flat-square&logo=powerbi&logoColor=00E5FF"/>
 <img src="https://img.shields.io/badge/DAX-0B0D12?style=flat-square&logoColor=00E5FF"/>
 </p>
-<p><a href="YOUR_POWER_BI_DASHBOARD_LINK"><strong>→ Ver dashboard</strong></a></p>
+<p><a href="https://github.com/monyguerrero09-collab"><strong>→ Ver dashboard</strong></a></p>
 </td>
 
 <td width="50%" valign="top">
 <p><code>&gt; /analytics/portfolio-reports</code></p>
-<a href="YOUR_DATA_REPOSITORY_LINK">
+<a href="https://github.com/monyguerrero09-collab">
   <img src="https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?w=800&auto=format&fit=crop&q=60" width="100%" alt="Portfolio preview" style="border: 1px solid #1e293b; border-radius: 6px;"/>
 </a>
 <h3>📂 Portfolio</h3>
@@ -277,12 +282,13 @@ y soluciones tecnológicas desarrolladas durante mi formación.
 <img src="https://img.shields.io/badge/Reports-0B0D12?style=flat-square&logoColor=00E5FF"/>
 <img src="https://img.shields.io/badge/Insights-0B0D12?style=flat-square&logoColor=00E5FF"/>
 </p>
-<p><a href="YOUR_DATA_REPOSITORY_LINK"><strong>→ Explorar proyectos</strong></a></p>
+<p><a href="https://github.com/monyguerrero09-collab"><strong>→ Explorar proyectos</strong></a></p>
 </td>
 </tr>
 </table>
 
-<img src="assets/divider.svg" width="100%"/>
+<!-- NEON CYBER DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:00F59B,100:0B0D12&height=3&section=header" width="100%" alt="Divider"/>
 
 <a name="toolbox"></a>
 <h2>🛠️ Open-source toolbox</h2>
@@ -301,9 +307,9 @@ y soluciones tecnológicas desarrolladas durante mi formación.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Power_BI-00E5FF?style=for-the-badge&logo=powerbi&logoColor=0B0D12"/>
-  <img src="https://img.shields.io/badge/n8n-222B38?style=for-the-badge&logo=n8n&logoColor=F0F6FC"/>
-  <img src="https://img.shields.io/badge/Pinecone-0B0D12?style=for-the-badge&logo=pinecone&logoColor=00E5FF"/>
+  <img src="https://img.shields.io/badge/Power_BI-00E5FF?style=for-the-badge&logo=powerbi&logoColor=0B0D12" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/n8n-222B38?style=for-the-badge&logo=n8n&logoColor=F0F6FC" alt="n8n"/>
+  <img src="https://img.shields.io/badge/Pinecone-0B0D12?style=for-the-badge&logo=pinecone&logoColor=00E5FF" alt="Pinecone"/>
 </p>
 
 <p align="center">
@@ -311,7 +317,7 @@ y soluciones tecnológicas desarrolladas durante mi formación.
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- RADAR VISUALIZATION — STATIC IMAGE, GITHUB COMPATIBLE          -->
+<!-- RADAR VISUALIZATION — GITHUB HIGH-RES CLOUD RENDER             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <h3 align="center">◈ TECHNICAL CAPABILITY MATRIX</h3>
@@ -325,24 +331,26 @@ y soluciones tecnológicas desarrolladas durante mi formación.
 </p>
 
 <p align="center">
-  <sub>Perfil actual (cian) vs. nivel objetivo 2026 (púrpura punteado) · imagen estática, compatible con GitHub, sin JavaScript.</sub>
+  <sub>Perfil actual (cian) vs. nivel objetivo 2026 (púrpura punteado) · imagen estática de alta resolución, 100% compatible con GitHub, sin JavaScript.</sub>
 </p>
 
-<img src="assets/divider.svg" width="100%"/>
+<!-- NEON CYBER DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:00F59B,100:0B0D12&height=3&section=header" width="100%" alt="Divider"/>
 
 <a name="activity"></a>
 <h2>📈 Contribution activity</h2>
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=monyguerrero09-collab&show_icons=true&hide_border=true&bg_color=0B0D12&title_color=00E5FF&icon_color=00E5FF&text_color=A9B2BC"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monyguerrero09-collab&layout=compact&hide_border=true&bg_color=0B0D12&title_color=00E5FF&text_color=A9B2BC"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=monyguerrero09-collab&show_icons=true&hide_border=true&bg_color=0B0D12&title_color=00E5FF&icon_color=00E5FF&text_color=A9B2BC" alt="GitHub Stats"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monyguerrero09-collab&layout=compact&hide_border=true&bg_color=0B0D12&title_color=00E5FF&text_color=A9B2BC" alt="Top Languages"/>
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=monyguerrero09-collab&hide_border=true&background=0B0D12&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideNums=A9B2BC&sideLabels=A9B2BC&dates=A9B2BC" alt="Contribution streak"/>
   <br/><br/>
   <img src="https://github-profile-trophy.vercel.app/?username=monyguerrero09-collab&theme=onedark&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&margin-h=8" alt="GitHub trophies"/>
 </div>
 
-<img src="assets/divider.svg" width="100%"/>
+<!-- NEON CYBER DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:00F59B,100:0B0D12&height=3&section=header" width="100%" alt="Divider"/>
 
 <h2>🔥 Contribution trail</h2>
 
@@ -353,7 +361,8 @@ y soluciones tecnológicas desarrolladas durante mi formación.
 </picture>
 </p>
 
-<img src="assets/divider.svg" width="100%"/>
+<!-- NEON CYBER DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:00F59B,100:0B0D12&height=3&section=header" width="100%" alt="Divider"/>
 
 <h2>📚 Currently learning</h2>
 
@@ -364,7 +373,8 @@ y soluciones tecnológicas desarrolladas durante mi formación.
 <li>🌐 Web technologies and IoT solutions.</li>
 </ul>
 
-<img src="assets/divider.svg" width="100%"/>
+<!-- NEON CYBER DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:00F59B,100:0B0D12&height=3&section=header" width="100%" alt="Divider"/>
 
 <h2>🏆 Achievements</h2>
 
@@ -381,7 +391,8 @@ y soluciones tecnológicas desarrolladas durante mi formación.
 </tr>
 </table>
 
-<img src="assets/divider.svg" width="100%"/>
+<!-- NEON CYBER DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:00F59B,100:0B0D12&height=3&section=header" width="100%" alt="Divider"/>
 
 <a name="connect"></a>
 <h2>🤝 Let's connect</h2>
@@ -392,13 +403,13 @@ Estoy abierta a aprender, colaborar en proyectos y conectar con personas interes
 
 <p align="center">
 <a href="https://github.com/monyguerrero09-collab">
-<img src="https://img.shields.io/badge/GitHub-0B0D12?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/GitHub-0B0D12?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub"/>
 </a>
-<a href="mailto:YOUR_EMAIL_HERE">
-<img src="https://img.shields.io/badge/Email-0B0D12?style=for-the-badge&logo=gmail&logoColor=00E5FF"/>
+<a href="mailto:monyguerrero.dev@gmail.com">
+<img src="https://img.shields.io/badge/Email-0B0D12?style=for-the-badge&logo=gmail&logoColor=00E5FF" alt="Email"/>
 </a>
-<a href="YOUR_LINKEDIN_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-0B0D12?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0B0D12?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn"/>
 </a>
 </p>
 
@@ -417,4 +428,3 @@ Estoy abierta a aprender, colaborar en proyectos y conectar con personas interes
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:101827,100:0B0D12&height=90&section=footer" width="100%" alt="Futuristic footer"/>
 </p>
-
