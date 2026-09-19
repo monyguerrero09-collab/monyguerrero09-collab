@@ -2,8 +2,10 @@
 <!-- VISUAL DESIGN LAYER — 100% GITHUB COMPATIBLE & OPTIMIZED      -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0D12,45:101827,100:00E5FF&height=150&section=header&text=MONY%20GUERRERO&fontSize=32&fontColor=F0F6FC&animation=twinkling&fontAlignY=38&desc=Ingenier%C3%ADa%20en%20TICs%20%C2%B7%20Software%20%26%20Automatizaci%C3%B3n&descAlignY=60&descSize=15&descColor=00E5FF" width="100%" alt="Futuristic header"/>
+<p *align*="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070D,35:101B32,68:123B52,100:00E5FF&height=205&section=header&text=MONY%20GUERRERO&fontSize=42&fontColor=F4FBFF&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20%2F%2F%20DATA%20%2F%2F%20AUTOMATION&descAlignY=60&descSize=16&descColor=8BFFF0&stroke=00E5FF&strokeWidth=1" width="100%" alt="Mony Guerrero futuristic profile header"/>
+
 </p>
 
 <!-- TELEMETRY BADGES -->
