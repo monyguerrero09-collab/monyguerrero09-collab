@@ -7,13 +7,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0D12,45:101827,100:00E5FF&height=120&section=header&text=MONY%20GUERRERO&fontSize=30&fontColor=F0F6FC&animation=twinkling&fontAlignY=35" width="100%" alt="Futuristic header"/>
 </p>
 
-<p align="center">
+<p align="center" style="margin: 10px 0;">
   <img src="https://img.shields.io/badge/◈_SYSTEM-ONLINE-00E5FF?style=for-the-badge&labelColor=0B0D12"/>
   <img src="https://img.shields.io/badge/◈_MODE-FUTURISTIC-00F59B?style=for-the-badge&labelColor=0B0D12"/>
   <img src="https://img.shields.io/badge/◈_BUILD-2026-8B5CF6?style=for-the-badge&labelColor=0B0D12"/>
 </p>
 
-<div align="center">
+<div align="center" style="margin: 20px 0;">
 
 <img src="assets/banner.svg" width="100%" alt="Mony Guerrero Ultra Tech Banner"/>
 
@@ -34,21 +34,21 @@
 
 <img src="assets/divider.svg" width="100%"/>
 
-<h2>👩‍💻 About me</h2>
+<h2 style="margin-top:40px;">👩‍💻 About me</h2>
 
-<table width="100%">
+<table width="100%" style="margin-top:20px;">
 <tr>
-<td width="33%" valign="top">
+<td width="33%" valign="top" style="padding:10px;">
 <h3>Focus</h3>
 <p><code>Software Development</code></p>
 <p><code>IoT</code> · <code>Automation</code></p>
 </td>
-<td width="33%" valign="top">
+<td width="33%" valign="top" style="padding:10px;">
 <h3>Education</h3>
 <p><code>Ingeniería en TICs</code></p>
 <p>Últimos semestres</p>
 </td>
-<td width="33%" valign="top">
+<td width="33%" valign="top" style="padding:10px;">
 <h3>Experience</h3>
 <p><code>CGR</code></p>
 <p>Residencia profesional</p>
@@ -56,19 +56,19 @@
 </tr>
 </table>
 
-<p>
+<p style="margin-top:20px;">
 Estudiante universitaria de los últimos semestres de
 <strong>Ingeniería en Tecnologías de la Información y Comunicaciones</strong>
 en el Tecnológico Nacional de México, Campus San Juan del Río.
 </p>
 
-<p>
+<p style="margin-top:20px;">
 Soy una persona objetiva, determinada y con un perfil analítico,
 apasionada por la tecnología, el aprendizaje continuo y el desarrollo
 de soluciones innovadoras.
 </p>
 
-<p>
+<p style="margin-top:20px;">
 Durante mi formación académica y experiencia profesional he participado
 en proyectos de desarrollo de software, innovación tecnológica,
 IoT y automatización, fortaleciendo mis habilidades para resolver
@@ -77,23 +77,23 @@ problemas y trabajar en proyectos interdisciplinarios.
 
 <img src="assets/divider.svg" width="100%"/>
 
-<h2>🔭 Professional journey</h2>
+<h2 style="margin-top:40px;">🔭 Professional journey</h2>
 
 <p><code>monyguerrero09-collab@github ~ $ journey --list</code></p>
 
-<table width="100%">
+<table width="100%" style="margin-top:20px;">
 <tr>
-<td width="30%" valign="top">
+<td width="30%" valign="top" style="padding:10px;">
 <h3>🎓 Education</h3>
 <p>Ingeniería en Tecnologías de la Información y Comunicaciones</p>
 <p><sub>2022 – Actualidad</sub></p>
 </td>
-<td width="35%" valign="top">
+<td width="35%" valign="top" style="padding:10px;">
 <h3>💼 Experience</h3>
 <p>Residencia profesional en CGR, Querétaro.</p>
 <p><sub>Febrero – Agosto 2026</sub></p>
 </td>
-<td width="35%" valign="top">
+<td width="35%" valign="top" style="padding:10px;">
 <h3>🏆 Innovation</h3>
 <p>Doble participación en el Certamen Nacional de Innovación Tecnológica (InnovaTec).</p>
 </td>
@@ -102,21 +102,23 @@ problemas y trabajar en proyectos interdisciplinarios.
 
 <img src="assets/divider.svg" width="100%"/>
 
-<h2>🚀 Featured projects</h2>
+<h2 style="margin-top:40px;">🚀 Featured projects</h2>
 
 <p><code>monyguerrero09-collab@github ~ $ projects --featured</code></p>
 
-<p><sub>💡 Haz clic en cualquier imagen o título para abrir el repositorio. Las imágenes muestran la vista previa automática de GitHub; cuando tengas una captura real de cada proyecto, reemplaza la URL por la tuya (por ejemplo subiéndola a la carpeta <code>/assets</code> del repo).</sub></p>
+<p style="margin-top:10px;">
+<sub>💡 Haz clic en cualquier imagen o título para abrir el repositorio. Las imágenes muestran la vista previa automática de GitHub; cuando tengas una captura real de cada proyecto, reemplaza la URL por la tuya (por ejemplo subiéndola a la carpeta <code>/assets</code> del repo).</sub>
+</p>
 
-<table width="100%">
+<table width="100%" style="margin-top:20px;">
 <tr>
 <!-- PROYECTO 1 -->
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding:10px;">
 <p><code>&gt; /projects/cgr-software-project</code></p>
 <a href="https://github.com/monyguerrero09-collab/SupportHub">
-  <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&auto=format&fit=crop&q=60" width="100%" alt="CGR software project preview" style="border: 1px solid #1e293b; border-radius: 4px;"/>
+  <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&auto=format&fit=crop&q=60" width="100%" alt="CGR software project preview" style="border: 1px solid #1e293b; border-radius: 6px; transition: transform 0.3s;"/>
 </a>
-<h3><a href="https://github.com/monyguerrero09-collab/SupportHub">💼 CGR — Software Project</a></h3>
+<h3 style="margin-top:10px;"><a href="https://github.com/monyguerrero09-collab/SupportHub" style="color:#00E5FF; text-decoration:none;">💼 CGR — Software Project</a></h3>
 <p>
 Proyecto de software desarrollado desde cero durante mi residencia
 profesional en CGR, Querétaro.
@@ -126,17 +128,17 @@ profesional en CGR, Querétaro.
 <img src="https://img.shields.io/badge/Laravel-222B38?style=flat-square&logo=laravel&logoColor=F0F6FC"/>
 <img src="https://img.shields.io/badge/PostgreSQL-0B0D12?style=flat-square&logo=postgresql&logoColor=00E5FF"/>
 </p>
-<p><sub>Professional Experience · Software Development</sub></p>
+<p style="margin-top:10px;"><sub>Professional Experience · Software Development</sub></p>
 <p><strong>Status:</strong> Completed residency</p>
 </td>
 
 <!-- PROYECTO 2 -->
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding:10px;">
 <p><code>&gt; /projects/instituto-sor-juana</code></p>
 <a href="https://github.com/monyguerrero09-collab/SMGE">
-  <img src="https://images.unsplash.com/photo-1509062522246-3755977927d7?w=800&auto=format&fit=crop&q=60" width="100%" alt="Instituto Sor Juana project preview" style="border: 1px solid #1e293b; border-radius: 4px;"/>
+  <img src="https://images.unsplash.com/photo-1509062522246-3755977927d7?w=800&auto=format&fit=crop&q=60" width="100%" alt="Instituto Sor Juana project preview" style="border: 1px solid #1e293b; border-radius: 6px; transition: transform 0.3s;"/>
 </a>
-<h3><a href="https://github.com/monyguerrero09-collab/SMGE">🏫 Instituto Sor Juana</a></h3>
+<h3 style="margin-top:10px;"><a href="https://github.com/monyguerrero09-collab/SMGE" style="color:#00E5FF; text-decoration:none;">🏫 Instituto Sor Juana</a></h3>
 <p>
 Sistema de gestión escolar desarrollado con metodología XP,
 incluyendo alumnos, grupos, profesores, pagos y recibos.
@@ -146,19 +148,19 @@ incluyendo alumnos, grupos, profesores, pagos y recibos.
 <img src="https://img.shields.io/badge/Django-222B38?style=flat-square&logo=django&logoColor=F0F6FC"/>
 <img src="https://img.shields.io/badge/SQLite-0B0D12?style=flat-square&logo=sqlite&logoColor=00E5FF"/>
 </p>
-<p><sub>Academic Project · Web Development</sub></p>
+<p style="margin-top:10px;"><sub>Academic Project · Web Development</sub></p>
 <p><strong>Status:</strong> Completed academic project</p>
 </td>
 </tr>
 
 <tr>
 <!-- PROYECTO 3 -->
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding:10px;">
 <p><code>&gt; /projects/greentech-iot</code></p>
 <a href="https://github.com/monyguerrero09-collab/invitacion_josias">
-  <img src="https://images.unsplash.com/photo-1558346490-a72e53ae2d4f?w=800&auto=format&fit=crop&q=60" width="100%" alt="GreenTech project preview" style="border: 1px solid #1e293b; border-radius: 4px;"/>
+  <img src="https://images.unsplash.com/photo-1558346490-a72e53ae2d4f?w=800&auto=format&fit=crop&q=60" width="100%" alt="GreenTech project preview" style="border: 1px solid #1e293b; border-radius: 6px; transition: transform 0.3s;"/>
 </a>
-<h3><a href="https://github.com/monyguerrero09-collab/invitacion_josias">⚡ GreenTech</a></h3>
+<h3 style="margin-top:10px;"><a href="https://github.com/monyguerrero09-collab/invitacion_josias" style="color:#00E5FF; text-decoration:none;">⚡ GreenTech</a></h3>
 <p>
 Propuesta IoT para monitorear y gestionar el consumo energético
 de los hogares, desarrollada durante HackaTec 2024.
@@ -168,17 +170,17 @@ de los hogares, desarrollada durante HackaTec 2024.
 <img src="https://img.shields.io/badge/ESP32-222B38?style=flat-square&logo=arduino&logoColor=F0F6FC"/>
 <img src="https://img.shields.io/badge/HackaTec--2024-0B0D12?style=flat-square&logoColor=00E5FF"/>
 </p>
-<p><sub>IoT · Innovation · Interdisciplinary Project</sub></p>
+<p style="margin-top:10px;"><sub>IoT · Innovation · Interdisciplinary Project</sub></p>
 <p><strong>Status:</strong> HackaTec 2024 Finalist</p>
 </td>
 
 <!-- PROYECTO 4 -->
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding:10px;">
 <p><code>&gt; /projects/traspatio-inteligente</code></p>
 <a href="https://github.com/monyguerrero09-collab/EcoTrueque-Web">
-  <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=800&auto=format&fit=crop&q=60" width="100%" alt="Traspatio Inteligente project preview" style="border: 1px solid #1e293b; border-radius: 4px;"/>
+  <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=800&auto=format&fit=crop&q=60" width="100%" alt="Traspatio Inteligente project preview" style="border: 1px solid #1e293b; border-radius: 6px; transition: transform 0.3s;"/>
 </a>
-<h3><a href="https://github.com/monyguerrero09-collab/EcoTrueque-Web">🌱 Traspatio Inteligente</a></h3>
+<h3 style="margin-top:10px;"><a href="https://github.com/monyguerrero09-collab/EcoTrueque-Web" style="color:#00E5FF; text-decoration:none;">🌱 Traspatio Inteligente</a></h3>
 <p>
 Proyecto de automatización e inteligencia artificial con n8n,
 chatbot con Pinecone y consultas de documentos en Google Drive.
@@ -188,7 +190,7 @@ chatbot con Pinecone y consultas de documentos en Google Drive.
 <img src="https://img.shields.io/badge/Pinecone-222B38?style=flat-square&logo=pinecone&logoColor=F0F6FC"/>
 <img src="https://img.shields.io/badge/Google_Drive-00A3FF?style=flat-square&logo=googledrive&logoColor=0B0D12"/>
 </p>
-<p><sub>AI · Automation · Distributed Systems</sub></p>
+<p style="margin-top:10px;"><sub>AI · Automation · Distributed Systems</sub></p>
 <p><strong>Status:</strong> Architecture & AI Automation</p>
 </td>
 </tr>
@@ -196,39 +198,38 @@ chatbot con Pinecone y consultas de documentos en Google Drive.
 
 <img src="assets/divider.svg" width="100%"/>
 
-<h2>📦 Latest Repositories & Activity</h2>
+<h2 style="margin-top:40px;">📦 Latest Repositories & Activity</h2>
 
 <p><code>monyguerrero09-collab@github ~ $ repos --recent</code></p>
 
 <!-- RECENT_ACTIVITY:start -->
-- 📌 **[monyguerrero09-collab](https://github.com/monyguerrero09-collab/monyguerrero09-collab)**
-- 📌 **[mi-primer-app-Expo](https://github.com/monyguerrero09-collab/mi-primer-app-Expo)** `[JavaScript]`
-- 📌 **[SMGE](https://github.com/monyguerrero09-collab/SMGE)** `[Blade]`
-- 📌 **[SupportHub](https://github.com/monyguerrero09-collab/SupportHub)** `[Blade]` - *IT ticketing and support management platform built with Laravel, Livewire, and PostgreSQL. Features real-time automated WhatsApp notifications.*
-- 📌 **[invitacion_josias](https://github.com/monyguerrero09-collab/invitacion_josias)**
+- 📌 <a href="https://github.com/monyguerrero09-collab/monyguerrero09-collab" style="color:#00E5FF;">monyguerrero09-collab</a>
+- 📌 <a href="https://github.com/monyguerrero09-collab/mi-primer-app-Expo" style="color:#00E5FF;">mi-primer-app-Expo</a> `[JavaScript]`
+- 📌 <a href="https://github.com/monyguerrero09-collab/SMGE" style="color:#00E5FF;">SMGE</a> `[Blade]`
+- 📌 <a href="https://github.com/monyguerrero09-collab/SupportHub" style="color:#00E5FF;">SupportHub</a> `[Blade]` - *IT ticketing and support platform built con Laravel, Livewire y PostgreSQL.*
+- 📌 <a href="https://github.com/monyguerrero09-collab/invitacion_josias" style="color:#00E5FF;">invitacion_josias</a>
 
 <!-- RECENT_ACTIVITY:end -->
 
 <img src="assets/divider.svg" width="100%"/>
 
-<h2>📊 Data & Business Intelligence</h2>
+<h2 style="margin-top:40px;">📊 Data & Business Intelligence</h2>
 
 <p><code>monyguerrero09-collab@github ~ $ analytics --dashboard</code></p>
 
 <p>
-También me interesa el análisis de datos y la creación de
-visualizaciones que permitan interpretar información y facilitar
-la toma de decisiones.
+Me interesa el análisis de datos y la creación de visualizaciones
+que faciliten interpretar información y tomar decisiones efectivas.
 </p>
 
-<table width="100%">
+<table width="100%" style="margin-top:20px;">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding:10px;">
 <p><code>&gt; /analytics/power-bi-dashboards</code></p>
-<a href="YOUR_POWER_BI_DASHBOARD_LINK">
-  <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&auto=format&fit=crop&q=60" width="100%" alt="Power BI dashboard preview" style="border: 1px solid #1e293b; border-radius: 4px;"/>
+<a href="YOUR_POWER_BI_DASHBOARD_LINK" style="text-decoration:none;">
+  <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&auto=format&fit=crop&q=60" width="100%" alt="Power BI dashboard preview" style="border: 1px solid #1e293b; border-radius: 6px; transition: transform 0.3s;"/>
 </a>
-<h3>📈 Power BI Dashboards</h3>
+<h3 style="margin-top:10px;">📈 Power BI Dashboards</h3>
 <p>
 Visualización y análisis de datos mediante dashboards interactivos
 con Microsoft Power BI.
@@ -237,16 +238,15 @@ con Microsoft Power BI.
 <img src="https://img.shields.io/badge/Power_BI-00E5FF?style=flat-square&logo=powerbi&logoColor=0B0D12"/>
 <img src="https://img.shields.io/badge/DAX-222B38?style=flat-square&logoColor=F0F6FC"/>
 </p>
-<p><sub>Data Analysis · Data Visualization · Business Intelligence</sub></p>
-<p><strong><a href="YOUR_POWER_BI_DASHBOARD_LINK">→ Ver dashboard</a></strong></p>
+<p style="margin-top:10px;"><a href="YOUR_POWER_BI_DASHBOARD_LINK" style="color:#00E5FF; font-weight:bold;">→ Ver dashboard</a></p>
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding:10px;">
 <p><code>&gt; /analytics/portfolio-reports</code></p>
-<a href="YOUR_DATA_REPOSITORY_LINK">
-  <img src="https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?w=800&auto=format&fit=crop&q=60" width="100%" alt="Portfolio preview" style="border: 1px solid #1e293b; border-radius: 4px;"/>
+<a href="YOUR_DATA_REPOSITORY_LINK" style="text-decoration:none;">
+  <img src="https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?w=800&auto=format&fit=crop&q=60" width="100%" alt="Portfolio preview" style="border: 1px solid #1e293b; border-radius: 6px; transition: transform 0.3s;"/>
 </a>
-<h3>📂 Portfolio</h3>
+<h3 style="margin-top:10px;">📂 Portfolio</h3>
 <p>
 Aquí compartiré proyectos de análisis de datos, visualizaciones
 y soluciones tecnológicas desarrolladas durante mi formación.
@@ -255,36 +255,35 @@ y soluciones tecnológicas desarrolladas durante mi formación.
 <img src="https://img.shields.io/badge/Reports-00E5FF?style=flat-square&logoColor=0B0D12"/>
 <img src="https://img.shields.io/badge/Insights-222B38?style=flat-square&logoColor=F0F6FC"/>
 </p>
-<p><sub>Projects · Reports · Insights</sub></p>
-<p><strong><a href="YOUR_DATA_REPOSITORY_LINK">→ Explorar proyectos</a></strong></p>
+<p style="margin-top:10px;"><a href="YOUR_DATA_REPOSITORY_LINK" style="color:#00E5FF; font-weight:bold;">→ Explorar proyectos</a></p>
 </td>
 </tr>
 </table>
 
 <img src="assets/divider.svg" width="100%"/>
 
-<h2>🛠️ Open-source toolbox</h2>
+<h2 style="margin-top:40px;">🛠️ Open-source toolbox</h2>
 
 <p><code>monyguerrero09-collab@github ~ $ toolbox --list</code></p>
 
-<p align="center">
+<p align="center" style="margin-top:20px;">
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=monyguerrero09-collab&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F258127032%3Fu%3D5d2be8564809945b743511de3286aa86ec21fa25%26v%3D4&style=terminal&v=oss-stack-1&mode=light" />
   <img src="https://www.gitskins.com/api/section/stack?username=monyguerrero09-collab&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F258127032%3Fu%3D5d2be8564809945b743511de3286aa86ec21fa25%26v%3D4&style=terminal&v=oss-stack-1&mode=dark" width="100%" alt="Mónica Olvera open-source technology toolbox" />
 </picture>
 </p>
 
-<p align="center">
+<p align="center" style="margin-top:10px;">
   <img src="https://skillicons.dev/icons?i=php,laravel,py,django,html,css,js,git,github,vscode&theme=dark" alt="Devicon Stack" />
 </p>
 
-<p align="center">
+<p align="center" style="margin-top:10px;">
   <img src="https://img.shields.io/badge/Power_BI-00E5FF?style=for-the-badge&logo=powerbi&logoColor=0B0D12"/>
   <img src="https://img.shields.io/badge/n8n-222B38?style=for-the-badge&logo=n8n&logoColor=F0F6FC"/>
   <img src="https://img.shields.io/badge/Pinecone-0B0D12?style=for-the-badge&logo=pinecone&logoColor=00E5FF"/>
 </p>
 
-<p align="center">
+<p align="center" style="margin-top:10px;">
 <sub>Technologies and tools to be updated according to my current projects.</sub>
 </p>
 
@@ -293,7 +292,7 @@ y soluciones tecnológicas desarrolladas durante mi formación.
 <!-- RADAR VISUALIZATION — STATIC IMAGE, GITHUB COMPATIBLE          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h3 align="center">◈ TECHNICAL CAPABILITY MATRIX</h3>
+<h3 style="text-align:center; margin-top:40px;">◈ TECHNICAL CAPABILITY MATRIX</h3>
 
 <p align="center">
   <img
@@ -303,26 +302,24 @@ y soluciones tecnológicas desarrolladas durante mi formación.
   />
 </p>
 
-<p align="center">
-  <sub>Static, GitHub-compatible visualization · No JavaScript required</sub>
+<p align="center" style="margin-top:10px;">
+  <sub>Visualización estática compatible con GitHub, sin necesidad de JavaScript.</sub>
 </p>
 
 <img src="assets/divider.svg" width="100%"/>
 
-<h2>📈 Contribution activity</h2>
+<h2 style="margin-top:40px;">📈 Contribution activity</h2>
 
-<p><code>monyguerrero09-collab@github ~ $ analytics --github</code></p>
-
-<div align="center">
+<div align="center" style="margin:20px 0;">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=monyguerrero09-collab&show_icons=true&hide_border=true&bg_color=0B0D12&title_color=00E5FF&icon_color=00E5FF&text_color=A9B2BC"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monyguerrero09-collab&layout=compact&hide_border=true&bg_color=0B0D12&title_color=00E5FF&text_color=A9B2BC"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=monyguerrero09-collab&hide_border=true&background=0B0D12&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideNums=A9B2BC&sideLabels=A9B2BC&dates=A9B2BC" alt="Contribution Streak"/>
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=monyguerrero09-collab&hide_border=true&background=0B0D12&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideNums=A9B2BC&sideLabels=A9B2BC&dates=A9B2BC" alt="Contribution streak"/>
 </div>
 
 <img src="assets/divider.svg" width="100%"/>
 
-<h2>🔥 Contribution trail</h2>
+<h2 style="margin-top:40px;">🔥 Contribution trail</h2>
 
 <p align="center">
 <picture>
@@ -333,11 +330,9 @@ y soluciones tecnológicas desarrolladas durante mi formación.
 
 <img src="assets/divider.svg" width="100%"/>
 
-<h2>📚 Currently learning</h2>
+<h2 style="margin-top:40px;">📚 Currently learning</h2>
 
-<p><code>monyguerrero09-collab@github ~ $ learning --current</code></p>
-
-<ul>
+<ul style="margin-top:20px; padding-left:20px;">
 <li>💻 Software development and engineering practices.</li>
 <li>🤖 Artificial intelligence and automation.</li>
 <li>📊 Data analysis and Business Intelligence.</li>
@@ -346,15 +341,15 @@ y soluciones tecnológicas desarrolladas durante mi formación.
 
 <img src="assets/divider.svg" width="100%"/>
 
-<h2>🏆 Achievements</h2>
+<h2 style="margin-top:40px;">🏆 Achievements</h2>
 
-<table width="100%">
+<table width="100%" style="margin-top:20px;">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding:10px;">
 <h3>🏅 InnovaTec</h3>
 <p>Doble participación en el Certamen Nacional de Innovación Tecnológica.</p>
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding:10px;">
 <h3>💡 Innovation projects</h3>
 <p>Participación en proyectos tecnológicos e interdisciplinarios durante mi formación universitaria.</p>
 </td>
@@ -363,14 +358,13 @@ y soluciones tecnológicas desarrolladas durante mi formación.
 
 <img src="assets/divider.svg" width="100%"/>
 
-<h2>🤝 Let's connect</h2>
+<h2 style="margin-top:40px;">🤝 Let's connect</h2>
 
-<p>
-I'm open to learning, collaborating on projects and connecting
-with people interested in technology, innovation and software development.
+<p style="margin-top:20px;">
+Estoy abierta a aprender, colaborar en proyectos y conectar con personas interesadas en tecnología, innovación y desarrollo de software.
 </p>
 
-<p align="center">
+<p align="center" style="margin-top:20px;">
 <a href="https://github.com/monyguerrero09-collab">
 <img src="https://img.shields.io/badge/GitHub-0B0D12?style=for-the-badge&logo=github&logoColor=00E5FF"/>
 </a>
@@ -384,7 +378,7 @@ with people interested in technology, innovation and software development.
 
 <hr />
 
-<p align="center">
+<p align="center" style="margin-top:10px;">
 <sub>Mónica Olvera · Engineering student · Technology & Innovation</sub>
 </p>
 
