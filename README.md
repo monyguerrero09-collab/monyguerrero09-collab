@@ -45,42 +45,24 @@ $ system.boot()
 <a name="about"></a>
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00E5FF&height=50&text=👩‍💻%20ABOUT%20ME&fontSize=26&fontAlign=left&fontAlignY=70" alt="About me"/>
 
-<table width="100%">
-<tr>
-<td width="33%" align="center" valign="top">
-<h3><img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00E5FF&height=30&text=FOCUS&fontSize=16&fontAlign=center&fontAlignY=70" alt="Focus"/></h3>
-<p><code>Software Development</code></p>
-<p><code>IoT</code> · <code>Automation</code></p>
-</td>
-<td width="33%" align="center" valign="top">
-<h3><img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00E5FF&height=30&text=EDUCATION&fontSize=16&fontAlign=center&fontAlignY=70" alt="Education"/></h3>
-<p><code>Ingeniería en TICs</code></p>
-<p>Últimos semestres</p>
-</td>
-<td width="33%" align="center" valign="top">
-<h3><img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00E5FF&height=30&text=EXPERIENCE&fontSize=16&fontAlign=center&fontAlignY=70" alt="Experience"/></h3>
-<p><code>CGR</code></p>
-<p>Residencia profesional</p>
-</td>
-</tr>
-</table>
-
 <blockquote>
+<p><strong>👩🏻‍💻 Sobre mí</strong></p>
 <p>
-Estudiante universitaria de los últimos semestres de
-<strong>Ingeniería en Tecnologías de la Información y Comunicaciones</strong>
-en el Tecnológico Nacional de México, Campus San Juan del Río.
+Soy estudiante de Ingeniería en Tecnologías de la Información y Comunicaciones, actualmente en los últimos semestres de mi formación profesional.
 </p>
 <p>
-Soy una persona objetiva, determinada y con un perfil analítico,
-apasionada por la tecnología, el aprendizaje continuo y el desarrollo
-de soluciones innovadoras.
+Me interesa transformar ideas y necesidades reales en soluciones tecnológicas funcionales, eficientes y escalables. Mi experiencia académica y profesional me ha permitido participar en proyectos de desarrollo de software, análisis de datos, inteligencia de negocios, IoT e innovación tecnológica.
 </p>
 <p>
-Durante mi formación académica y experiencia profesional he participado
-en proyectos de desarrollo de software, innovación tecnológica,
-IoT y automatización, fortaleciendo mis habilidades para resolver
-problemas y trabajar en proyectos interdisciplinarios.
+He trabajado con tecnologías como PHP, Laravel, Python, Django y Power BI, desarrollando soluciones desde su concepción hasta su implementación. También he participado en proyectos interdisciplinarios de innovación, donde he aplicado tecnologías emergentes para resolver problemáticas concretas.
+</p>
+<p>
+Me caracterizo por mi capacidad de aprendizaje acelerado, pensamiento analítico, adaptabilidad tecnológica y orientación a resultados. Disfruto enfrentar nuevos retos, aprender herramientas diferentes y encontrar formas más eficientes de resolver problemas.
+</p>
+<br>
+<p><strong>🚀 Actualmente</strong></p>
+<p>
+Busco continuar desarrollándome profesionalmente, participar en proyectos tecnológicos de mayor alcance y formar parte de equipos donde pueda aportar mis conocimientos, adquirir nuevas experiencias y convertir ideas en soluciones reales.
 </p>
 </blockquote>
 
@@ -231,15 +213,9 @@ chatbot con Pinecone y consultas de documentos en Google Drive.
 <p><code>monyguerrero09-collab@github ~ $ repos --recent</code></p>
 
 <blockquote>
-
 <!-- RECENT_ACTIVITY:start -->
-- 📌 **[monyguerrero09-collab](https://github.com/monyguerrero09-collab/monyguerrero09-collab)**
-- 📌 **[mi-primer-app-Expo](https://github.com/monyguerrero09-collab/mi-primer-app-Expo)** `[JavaScript]`
-- 📌 **[SMGE](https://github.com/monyguerrero09-collab/SMGE)** `[Blade]`
-- 📌 **[SupportHub](https://github.com/monyguerrero09-collab/SupportHub)** `[Blade]` - *IT ticketing and support management platform built with Laravel, Livewire, and PostgreSQL. Features real-time automated WhatsApp notifications.*
-- 📌 **[invitacion_josias](https://github.com/monyguerrero09-collab/invitacion_josias)**
+<!-- Las automatizaciones de GitHub inyectarán tu actividad reciente aquí -->
 <!-- RECENT_ACTIVITY:end -->
-
 </blockquote>
 
 <!-- NEON CYBER LASER -->
@@ -385,26 +361,6 @@ y soluciones tecnológicas desarrolladas durante mi formación.
 <li>📊 Data analysis and Business Intelligence.</li>
 <li>🌐 Web technologies and IoT solutions.</li>
 </ul>
-</blockquote>
-
-<!-- NEON CYBER LASER -->
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=00E5FF&height=2&section=header" width="100%" alt="Divider"/></p>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00E5FF&height=50&text=🏆%20ACHIEVEMENTS&fontSize=26&fontAlign=left&fontAlignY=70" alt="Achievements"/>
-
-<blockquote>
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-<h3>🏅 InnovaTec</h3>
-<p>Doble participación en el Certamen Nacional de Innovación Tecnológica.</p>
-</td>
-<td width="50%" valign="top">
-<h3>💡 Innovation projects</h3>
-<p>Participación en proyectos tecnológicos e interdisciplinarios durante mi formación universitaria.</p>
-</td>
-</tr>
-</table>
 </blockquote>
 
 <!-- NEON CYBER LASER -->
