@@ -238,7 +238,6 @@ chatbot con Pinecone y consultas de documentos en Google Drive.
 - 📌 **[SMGE](https://github.com/monyguerrero09-collab/SMGE)** `[Blade]`
 - 📌 **[SupportHub](https://github.com/monyguerrero09-collab/SupportHub)** `[Blade]` - *IT ticketing and support management platform built with Laravel, Livewire, and PostgreSQL. Features real-time automated WhatsApp notifications.*
 - 📌 **[invitacion_josias](https://github.com/monyguerrero09-collab/invitacion_josias)**
-
 <!-- RECENT_ACTIVITY:end -->
 
 </blockquote>
