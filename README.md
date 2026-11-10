@@ -1,448 +1,694 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- VISUAL DESIGN LAYER — ULTRA TECH & NEON BLUE OPTIMIZED          -->
+<!-- MONY GUERRERO // FUTURISTIC TERMINAL PORTFOLIO                -->
+<!-- RESPONSIVE GITHUB README                                       -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070D,35:101B32,68:123B52,100:00E5FF&height=205&section=header&text=MONY%20GUERRERO&fontSize=42&fontColor=F4FBFF&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20%2F%2F%20DATA%20%2F%2F%20AUTOMATION&descAlignY=60&descSize=16&descColor=8BFFF0&stroke=00E5FF&strokeWidth=1" width="100%" alt="Mony Guerrero futuristic profile header"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:030508,35:081321,70:0D2A3A,100:00E5FF&height=220&section=header&text=MONY%20GUERRERO&fontSize=44&fontColor=F4FBFF&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20%2F%2F%20DATA%20%2F%2F%20AUTOMATION&descAlignY=61&descSize=15&descColor=8BFFF0&stroke=00E5FF&strokeWidth=1"
+    width="100%"
+    alt="Mony Guerrero — Software, Data and Automation"
+  />
 </p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/◈_SYSTEM-ONLINE-00E5FF?style=for-the-badge&labelColor=05070D&color=00E5FF" alt="System Online"/>
-  <img src="https://img.shields.io/badge/◈_DATA-SECURED-00E5FF?style=for-the-badge&labelColor=05070D&color=00E5FF" alt="Data Secured"/>
-  <img src="https://img.shields.io/badge/◈_NETWORK-STABLE-00E5FF?style=for-the-badge&labelColor=05070D&color=00E5FF" alt="Network Stable"/>
-</div>
+<p align="center">
+  <code>monyguerrero09-collab@github ~ $ ./maintainer.sh</code>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00E5FF?style=for-the-badge&labelColor=05070D" alt="System Online"/>
+  <img src="https://img.shields.io/badge/BUILD-2026-00E5FF?style=for-the-badge&labelColor=05070D" alt="Build 2026"/>
+  <img src="https://img.shields.io/badge/MODE-INNOVATION-00E5FF?style=for-the-badge&labelColor=05070D" alt="Innovation"/>
+</p>
+
 <br>
 
-<div align="center">
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- TERMINAL BOOT                                                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<p><code>monyguerrero09-collab@github ~ $ ./maintainer.sh --deploy-spec</code></p>
-
-<blockquote>
-<pre align="left">
-$ system.boot()
-> loading kernel............. <span style="color:#00E5FF">[OK]</span>
-> mounting skillset [PHP, Python, Laravel, Django, Power BI, IoT]... <span style="color:#00E5FF">[OK]</span>
-> initializing neural interface... <span style="color:#00E5FF">[OK]</span>
-> status: ONLINE ✅
-</pre>
-</blockquote>
-
-<!-- LIVE SYSTEM SCAN VIA GITSKINS -->
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/system-scan?username=monyguerrero09-collab&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F258127032%3Fu%3D5d2be8564809945b743511de3286aa86ec21fa25%26v%3D4&style=terminal&v=oss-system-scan-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/system-scan?username=monyguerrero09-collab&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F258127032%3Fu%3D5d2be8564809945b743511de3286aa86ec21fa25%26v%3D4&style=terminal&v=oss-system-scan-1&mode=dark" width="860" alt="Mónica Olvera animated maintainer system scan" />
-</picture>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=%3E+initializing+developer+profile...;%3E+loading+skills...;%3E+loading+projects...;%3E+loading+experience...;%3E+status%3A+ONLINE"
+    alt="Terminal initialization"
+  />
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=620&lines=whoami+%3E+ingeniera+en+TICs;compilando+ideas+en+soluciones...;PHP+%7C+Python+%7C+Laravel+%7C+Django+%7C+Power+BI" alt="Typing SVG" />
+<p align="center">
+  <code>
+    ┌─────────────────────────────────────────────────────────────┐
+    <br>
+    │ SYSTEM :: ONLINE &nbsp;•&nbsp; PROFILE :: ACTIVE &nbsp;•&nbsp; BUILD :: 2026 │
+    <br>
+    └─────────────────────────────────────────────────────────────┘
+  </code>
+</p>
 
-</div>
+<br>
 
-<!-- NEON CYBER LASER -->
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=00E5FF&height=2&section=header" width="100%" alt="Divider"/></p>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ABOUT ME                                                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <a name="about"></a>
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00E5FF&height=50&text=👩‍💻%20ABOUT%20ME&fontSize=26&fontAlign=left&fontAlignY=70" alt="About me"/>
 
-<table width="100%">
-<tr>
-<td width="33%" align="center" valign="top">
-<h3><img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00E5FF&height=30&text=FOCUS&fontSize=16&fontAlign=center&fontAlignY=70" alt="Focus"/></h3>
-<p><code>Software Development</code></p>
-<p><code>IoT</code> · <code>Automation</code></p>
-</td>
-<td width="33%" align="center" valign="top">
-<h3><img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00E5FF&height=30&text=EDUCATION&fontSize=16&fontAlign=center&fontAlignY=70" alt="Education"/></h3>
-<p><code>Ingeniería en TICs</code></p>
-<p>Últimos semestres</p>
-</td>
-<td width="33%" align="center" valign="top">
-<h3><img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00E5FF&height=30&text=EXPERIENCE&fontSize=16&fontAlign=center&fontAlignY=70" alt="Experience"/></h3>
-<p><code>CGR</code></p>
-<p>Residencia profesional</p>
-</td>
-</tr>
-</table>
-
-<blockquote>
-<p>
-Estudiante universitaria de los últimos semestres de
-<strong>Ingeniería en Tecnologías de la Información y Comunicaciones</strong>
-en el Tecnológico Nacional de México, Campus San Juan del Río.
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00E5FF&height=55&text=01%20%2F%2F%20ABOUT%20ME&fontSize=25&fontAlign=center&fontAlignY=70"
+    alt="About me"
+  />
 </p>
-<p>
-Soy una persona objetiva, determinada y con un perfil analítico,
-apasionada por la tecnología, el aprendizaje continuo y el desarrollo
-de soluciones innovadoras.
+
+<p align="center">
+  <code>monyguerrero09-collab@github ~ $ whoami</code>
 </p>
-<p>
-Durante mi formación académica y experiencia profesional he participado
-en proyectos de desarrollo de software, innovación tecnológica,
-IoT y automatización, fortaleciendo mis habilidades para resolver
-problemas y trabajar en proyectos interdisciplinarios.
+
+<p align="center">
+  <strong>👩🏻‍💻 Ingeniería en TICs · Software · Data · Innovation</strong>
 </p>
-</blockquote>
 
-<!-- NEON CYBER LASER -->
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=00E5FF&height=2&section=header" width="100%" alt="Divider"/></p>
+<p align="center">
+  Soy estudiante de <strong>Ingeniería en Tecnologías de la Información y Comunicaciones</strong>,
+  actualmente en los últimos semestres de mi formación profesional.
+</p>
 
-<a name="journey"></a>
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00E5FF&height=50&text=🔭%20PROFESSIONAL%20JOURNEY&fontSize=26&fontAlign=left&fontAlignY=70" alt="Professional Journey"/>
+<p align="center">
+  Me interesa transformar ideas y necesidades reales en
+  <strong>soluciones tecnológicas funcionales, eficientes y escalables</strong>.
+</p>
 
-<p><code>monyguerrero09-collab@github ~ $ journey --list</code></p>
+<p align="center">
+  Mi experiencia académica y profesional abarca
+  <strong>desarrollo de software, análisis de datos, inteligencia de negocios,
+  IoT, automatización e innovación tecnológica</strong>.
+</p>
 
-<blockquote>
-<table width="100%">
-<tr>
-<td width="30%" valign="top">
-<h3>🎓 Education</h3>
-<p>Ingeniería en Tecnologías de la Información y Comunicaciones</p>
-<p><sub><code style="color:#00E5FF">2022 – Actualidad</code></sub></p>
-</td>
-<td width="35%" valign="top">
-<h3>💼 Experience</h3>
-<p>Residencia profesional en CGR, Querétaro.</p>
-<p><sub><code style="color:#00E5FF">Febrero – Agosto 2026</code></sub></p>
-</td>
-<td width="35%" valign="top">
-<h3>🏆 Innovation</h3>
-<p>Doble participación en el Certamen Nacional de Innovación Tecnológica (InnovaTec).</p>
-</td>
-</tr>
-</table>
-</blockquote>
+<p align="center">
+  He trabajado con tecnologías como
+  <strong>PHP, Laravel, Python, Django y Power BI</strong>,
+  participando en proyectos desde su concepción hasta su implementación.
+</p>
 
-<!-- NEON CYBER LASER -->
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=00E5FF&height=2&section=header" width="100%" alt="Divider"/></p>
+<p align="center">
+  Me caracterizo por mi
+  <strong>aprendizaje acelerado, pensamiento analítico,
+  adaptabilidad tecnológica y orientación a resultados</strong>.
+</p>
+
+<br>
+
+<p align="center">
+  <code>
+    [ SOFTWARE ] ── [ DATA ] ── [ AUTOMATION ] ── [ INNOVATION ]
+  </code>
+</p>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- CURRENT MISSION                                                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00E5FF&height=45&text=◈%20CURRENT%20MISSION&fontSize=20&fontAlign=center&fontAlignY=70"
+    alt="Current mission"
+  />
+</p>
+
+<p align="center">
+  <code>
+    BUILD → LEARN → INNOVATE → SOLVE
+  </code>
+</p>
+
+<p align="center">
+  Busco continuar desarrollándome profesionalmente, participar en proyectos
+  tecnológicos de mayor alcance y convertir ideas en soluciones reales.
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00E5FF&height=2&section=header" width="92%" alt="Divider"/>
+</p>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- CORE EXPERTISE                                                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00E5FF&height=55&text=02%20%2F%2F%20CORE%20EXPERTISE&fontSize=25&fontAlign=center&fontAlignY=70"
+    alt="Core expertise"
+  />
+</p>
+
+<p align="center">
+  <code>monyguerrero09-collab@github ~ $ expertise --scan</code>
+</p>
+
+<br>
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/💻_SOFTWARE-0B0D12?style=for-the-badge&labelColor=05070D&color=00E5FF" alt="Software"/>
+
+  <br>
+
+  <img src="https://img.shields.io/badge/PHP-0B0D12?style=flat-square&logo=php&logoColor=00E5FF" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Laravel-0B0D12?style=flat-square&logo=laravel&logoColor=00E5FF" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/Python-0B0D12?style=flat-square&logo=python&logoColor=00E5FF" alt="Python"/>
+  <img src="https://img.shields.io/badge/Django-0B0D12?style=flat-square&logo=django&logoColor=00E5FF" alt="Django"/>
+
+</p>
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/📊_DATA_%26_BI-0B0D12?style=for-the-badge&labelColor=05070D&color=00E5FF" alt="Data and BI"/>
+
+  <br>
+
+  <img src="https://img.shields.io/badge/Pandas-0B0D12?style=flat-square&logo=pandas&logoColor=00E5FF" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Power_BI-0B0D12?style=flat-square&logo=powerbi&logoColor=00E5FF" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/DAX-0B0D12?style=flat-square&logoColor=00E5FF" alt="DAX"/>
+
+</p>
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/⚙️_AUTOMATION-0B0D12?style=for-the-badge&labelColor=05070D&color=00E5FF" alt="Automation"/>
+
+  <br>
+
+  <img src="https://img.shields.io/badge/n8n-0B0D12?style=flat-square&logo=n8n&logoColor=00E5FF" alt="n8n"/>
+  <img src="https://img.shields.io/badge/Pinecone-0B0D12?style=flat-square&logoColor=00E5FF" alt="Pinecone"/>
+  <img src="https://img.shields.io/badge/AI-0B0D12?style=flat-square&logoColor=00E5FF" alt="Artificial Intelligence"/>
+
+</p>
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/🌐_INNOVATION-0B0D12?style=for-the-badge&labelColor=05070D&color=00E5FF" alt="Innovation"/>
+
+  <br>
+
+  <img src="https://img.shields.io/badge/IoT-0B0D12?style=flat-square&logoColor=00E5FF" alt="IoT"/>
+  <img src="https://img.shields.io/badge/ESP32-0B0D12?style=flat-square&logo=arduino&logoColor=00E5FF" alt="ESP32"/>
+  <img src="https://img.shields.io/badge/Innovation-0B0D12?style=flat-square&logoColor=00E5FF" alt="Innovation"/>
+
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00E5FF&height=2&section=header" width="92%" alt="Divider"/>
+</p>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- FEATURED PROJECTS                                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <a name="projects"></a>
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00E5FF&height=50&text=🚀%20FEATURED%20PROJECTS&fontSize=26&fontAlign=left&fontAlignY=70" alt="Featured Projects"/>
 
-<p><code>monyguerrero09-collab@github ~ $ projects --featured</code></p>
-
-<p>
-<sub>💡 Haz clic en cualquier imagen o título para abrir el repositorio. Las imágenes muestran la vista previa automática de GitHub; cuando tengas una captura real de cada proyecto, reemplaza la URL por la tuya (por ejemplo subiéndola a la carpeta <code>/assets</code> del repo).</sub>
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00E5FF&height=55&text=03%20%2F%2F%20FEATURED%20PROJECTS&fontSize=25&fontAlign=center&fontAlignY=70"
+    alt="Featured projects"
+  />
 </p>
 
-<table width="100%">
-<tr>
-<!-- PROYECTO 1 -->
-<td width="50%" valign="top">
-<p><code>&gt; /projects/cgr-software-project</code></p>
-<a href="https://github.com/monyguerrero09-collab/SupportHub">
-  <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&auto=format&fit=crop&q=60" width="100%" alt="CGR software project preview" style="border-radius: 6px;"/>
-</a>
-<br><br>
-<h3>💼 <a href="https://github.com/monyguerrero09-collab/SupportHub">CGR — Software Project</a></h3>
-<blockquote>
-<p>
-Proyecto de software desarrollado desde cero durante mi residencia
-profesional en CGR, Querétaro.
+<p align="center">
+  <code>monyguerrero09-collab@github ~ $ projects --featured</code>
 </p>
-</blockquote>
-<p>
-<img src="https://img.shields.io/badge/PHP-0B0D12?style=for-the-badge&logo=php&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/Laravel-0B0D12?style=for-the-badge&logo=laravel&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/PostgreSQL-0B0D12?style=for-the-badge&logo=postgresql&logoColor=00E5FF"/>
+
+<p align="center">
+  <sub>
+    Proyectos profesionales, académicos y de innovación tecnológica.
+  </sub>
 </p>
-<p><sub>Professional Experience · Software Development</sub></p>
-<p><strong>Status:</strong> <code>Completed residency</code></p>
-</td>
 
-<!-- PROYECTO 2 -->
-<td width="50%" valign="top">
-<p><code>&gt; /projects/instituto-sor-juana</code></p>
-<a href="https://github.com/monyguerrero09-collab/SMGE">
-  <img src="https://images.unsplash.com/photo-1509062522246-3755977927d7?w=800&auto=format&fit=crop&q=60" width="100%" alt="Instituto Sor Juana project preview" style="border-radius: 6px;"/>
-</a>
-<br><br>
-<h3>🏫 <a href="https://github.com/monyguerrero09-collab/SMGE">Instituto Sor Juana</a></h3>
-<blockquote>
-<p>
-Sistema de gestión escolar desarrollado con metodología XP,
-incluyendo alumnos, grupos, profesores, pagos y recibos.
+<br>
+
+<!-- PROJECT 01 -->
+
+<p align="center">
+  <code>┌── 01 // PROFESSIONAL EXPERIENCE ──┐</code>
 </p>
-</blockquote>
-<p>
-<img src="https://img.shields.io/badge/Python-0B0D12?style=for-the-badge&logo=python&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/Django-0B0D12?style=for-the-badge&logo=django&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/SQLite-0B0D12?style=for-the-badge&logo=sqlite&logoColor=00E5FF"/>
+
+<p align="center">
+  <a href="https://github.com/monyguerrero09-collab/SupportHub">
+    <img
+      src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&auto=format&fit=crop&q=70"
+      width="92%"
+      alt="CGR software project preview"
+    />
+  </a>
 </p>
-<p><sub>Academic Project · Web Development</sub></p>
-<p><strong>Status:</strong> <code>Completed academic project</code></p>
-</td>
-</tr>
 
-<tr>
-<!-- PROYECTO 3 -->
-<td width="50%" valign="top">
-<p><code>&gt; /projects/greentech-iot</code></p>
-<a href="https://github.com/monyguerrero09-collab/invitacion_josias">
-  <img src="https://images.unsplash.com/photo-1558346490-a72e53ae2d4f?w=800&auto=format&fit=crop&q=60" width="100%" alt="GreenTech project preview" style="border-radius: 6px;"/>
-</a>
-<br><br>
-<h3>⚡ <a href="https://github.com/monyguerrero09-collab/invitacion_josias">GreenTech</a></h3>
-<blockquote>
-<p>
-Propuesta IoT para monitorear y gestionar el consumo energético
-de los hogares, desarrollada durante HackaTec 2024.
+<p align="center">
+  <strong>💼 CGR — SOFTWARE PROJECT</strong>
 </p>
-</blockquote>
-<p>
-<img src="https://img.shields.io/badge/IoT-0B0D12?style=for-the-badge&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/ESP32-0B0D12?style=for-the-badge&logo=arduino&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/HackaTec--2024-0B0D12?style=for-the-badge&logoColor=00E5FF"/>
+
+<p align="center">
+  Proyecto de software desarrollado desde cero durante mi residencia
+  profesional en <strong>CGR, Querétaro</strong>.
 </p>
-<p><sub>IoT · Innovation · Interdisciplinary Project</sub></p>
-<p><strong>Status:</strong> <code>HackaTec 2024 Finalist</code></p>
-</td>
 
-<!-- PROYECTO 4 -->
-<td width="50%" valign="top">
-<p><code>&gt; /projects/traspatio-inteligente</code></p>
-<a href="https://github.com/monyguerrero09-collab/EcoTrueque-Web">
-  <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=800&auto=format&fit=crop&q=60" width="100%" alt="Traspatio Inteligente project preview" style="border-radius: 6px;"/>
-</a>
-<br><br>
-<h3>🌱 <a href="https://github.com/monyguerrero09-collab/EcoTrueque-Web">Traspatio Inteligente</a></h3>
-<blockquote>
-<p>
-Proyecto de automatización e inteligencia artificial con n8n,
-chatbot con Pinecone y consultas de documentos en Google Drive.
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-0B0D12?style=flat-square&logo=php&logoColor=00E5FF"/>
+  <img src="https://img.shields.io/badge/Laravel-0B0D12?style=flat-square&logo=laravel&logoColor=00E5FF"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-0B0D12?style=flat-square&logo=postgresql&logoColor=00E5FF"/>
 </p>
-</blockquote>
-<p>
-<img src="https://img.shields.io/badge/n8n-0B0D12?style=for-the-badge&logo=n8n&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/Pinecone-0B0D12?style=for-the-badge&logo=pinecone&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/Google_Drive-0B0D12?style=for-the-badge&logo=googledrive&logoColor=00E5FF"/>
+
+<p align="center">
+  <sub>Software Development · Professional Experience</sub>
 </p>
-<p><sub>AI · Automation · Distributed Systems</sub></p>
-<p><strong>Status:</strong> <code>Architecture & AI Automation</code></p>
-</td>
-</tr>
-</table>
 
-<!-- NEON CYBER LASER -->
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=00E5FF&height=2&section=header" width="100%" alt="Divider"/></p>
+<p align="center">
+  <a href="https://github.com/monyguerrero09-collab/SupportHub">
+    <strong>→ VIEW REPOSITORY</strong>
+  </a>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00E5FF&height=50&text=📦%20LATEST%20REPOSITORIES&fontSize=26&fontAlign=left&fontAlignY=70" alt="Latest Repositories"/>
+<br>
 
-<p><code>monyguerrero09-collab@github ~ $ repos --recent</code></p>
+<!-- PROJECT 02 -->
 
-<blockquote>
+<p align="center">
+  <code>┌── 02 // ACADEMIC PROJECT ──┐</code>
+</p>
 
-<!-- RECENT_ACTIVITY:start -->
-- 📌 **[monyguerrero09-collab](https://github.com/monyguerrero09-collab/monyguerrero09-collab)**
-- 📌 **[mi-primer-app-Expo](https://github.com/monyguerrero09-collab/mi-primer-app-Expo)** `[JavaScript]`
-- 📌 **[SMGE](https://github.com/monyguerrero09-collab/SMGE)** `[Blade]`
-- 📌 **[SupportHub](https://github.com/monyguerrero09-collab/SupportHub)** `[Blade]` - *IT ticketing and support management platform built with Laravel, Livewire, and PostgreSQL. Features real-time automated WhatsApp notifications.*
-- 📌 **[invitacion_josias](https://github.com/monyguerrero09-collab/invitacion_josias)**
-<!-- RECENT_ACTIVITY:end -->
+<p align="center">
+  <a href="https://github.com/monyguerrero09-collab/SMGE">
+    <img
+      src="https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&auto=format&fit=crop&q=70"
+      width="92%"
+      alt="Instituto Sor Juana project preview"
+    />
+  </a>
+</p>
 
-</blockquote>
+<p align="center">
+  <strong>🏫 INSTITUTO SOR JUANA</strong>
+</p>
 
-<!-- NEON CYBER LASER -->
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=00E5FF&height=2&section=header" width="100%" alt="Divider"/></p>
+<p align="center">
+  Sistema de gestión escolar desarrollado con metodología
+  <strong>XP</strong>, incluyendo alumnos, grupos, profesores,
+  pagos y recibos.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-0B0D12?style=flat-square&logo=python&logoColor=00E5FF"/>
+  <img src="https://img.shields.io/badge/Django-0B0D12?style=flat-square&logo=django&logoColor=00E5FF"/>
+  <img src="https://img.shields.io/badge/SQLite-0B0D12?style=flat-square&logo=sqlite&logoColor=00E5FF"/>
+</p>
+
+<p align="center">
+  <sub>Academic Project · Web Development</sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/monyguerrero09-collab/SMGE">
+    <strong>→ VIEW REPOSITORY</strong>
+  </a>
+</p>
+
+<br>
+
+<!-- PROJECT 03 -->
+
+<p align="center">
+  <code>┌── 03 // INNOVATION PROJECT ──┐</code>
+</p>
+
+<p align="center">
+  <a href="https://github.com/monyguerrero09-collab/invitacion_josias">
+    <img
+      src="https://images.unsplash.com/photo-1558346490-a72e53ae2d4f?w=1200&auto=format&fit=crop&q=70"
+      width="92%"
+      alt="GreenTech project preview"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <strong>⚡ GREENTECH</strong>
+</p>
+
+<p align="center">
+  Propuesta basada en <strong>IoT</strong> para monitorear y gestionar
+  el consumo energético de los hogares, desarrollada durante
+  <strong>HackaTec 2024</strong>.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/IoT-0B0D12?style=flat-square&logoColor=00E5FF"/>
+  <img src="https://img.shields.io/badge/ESP32-0B0D12?style=flat-square&logo=arduino&logoColor=00E5FF"/>
+  <img src="https://img.shields.io/badge/HackaTec_2024-0B0D12?style=flat-square&logoColor=00E5FF"/>
+</p>
+
+<p align="center">
+  <sub>IoT · Innovation · Interdisciplinary Project</sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/monyguerrero09-collab/invitacion_josias">
+    <strong>→ VIEW PROJECT</strong>
+  </a>
+</p>
+
+<br>
+
+<!-- PROJECT 04 -->
+
+<p align="center">
+  <code>┌── 04 // AI & AUTOMATION ──┐</code>
+</p>
+
+<p align="center">
+  <a href="https://github.com/monyguerrero09-collab/EcoTrueque-Web">
+    <img
+      src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1200&auto=format&fit=crop&q=70"
+      width="92%"
+      alt="Traspatio Inteligente project preview"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <strong>🌱 TRASPATIO INTELIGENTE</strong>
+</p>
+
+<p align="center">
+  Proyecto de automatización e inteligencia artificial utilizando
+  <strong>n8n, Pinecone y Google Drive</strong> para consultar,
+  extraer y analizar información.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/n8n-0B0D12?style=flat-square&logo=n8n&logoColor=00E5FF"/>
+  <img src="https://img.shields.io/badge/Pinecone-0B0D12?style=flat-square&logoColor=00E5FF"/>
+  <img src="https://img.shields.io/badge/Google_Drive-0B0D12?style=flat-square&logo=googledrive&logoColor=00E5FF"/>
+</p>
+
+<p align="center">
+  <sub>AI · Automation · Distributed Systems</sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/monyguerrero09-collab/EcoTrueque-Web">
+    <strong>→ VIEW PROJECT</strong>
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00E5FF&height=2&section=header" width="92%" alt="Divider"/>
+</p>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- DATA & BUSINESS INTELLIGENCE                                   -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <a name="data-bi"></a>
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00E5FF&height=50&text=📊%20DATA%20%26%20BUSINESS%20INTELLIGENCE&fontSize=26&fontAlign=left&fontAlignY=70" alt="Data & BI"/>
 
-<p><code>monyguerrero09-collab@github ~ $ analytics --dashboard</code></p>
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00E5FF&height=55&text=04%20%2F%2F%20DATA%20%26%20BUSINESS%20INTELLIGENCE&fontSize=23&fontAlign=center&fontAlignY=70"
+    alt="Data and Business Intelligence"
+  />
+</p>
 
-<blockquote>
-<p>
-Me interesa el análisis de datos y la creación de visualizaciones
-que faciliten interpretar información y tomar decisiones efectivas.
+<p align="center">
+  <code>monyguerrero09-collab@github ~ $ analytics --dashboard</code>
 </p>
-</blockquote>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-<p><code>&gt; /analytics/power-bi-dashboards</code></p>
-<a href="https://github.com/monyguerrero09-collab">
-  <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&auto=format&fit=crop&q=60" width="100%" alt="Power BI dashboard preview" style="border-radius: 6px;"/>
-</a>
-<br><br>
-<h3>📈 Power BI Dashboards</h3>
-<p>
-Visualización y análisis de datos mediante dashboards interactivos
-con Microsoft Power BI.
-</p>
-<p>
-<img src="https://img.shields.io/badge/Power_BI-0B0D12?style=for-the-badge&logo=powerbi&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/DAX-0B0D12?style=for-the-badge&logoColor=00E5FF"/>
-</p>
-<p><a href="https://github.com/monyguerrero09-collab"><strong>→ Ver dashboard</strong></a></p>
-</td>
+<br>
 
-<td width="50%" valign="top">
-<p><code>&gt; /analytics/portfolio-reports</code></p>
-<a href="https://github.com/monyguerrero09-collab">
-  <img src="https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?w=800&auto=format&fit=crop&q=60" width="100%" alt="Portfolio preview" style="border-radius: 6px;"/>
-</a>
-<br><br>
-<h3>📂 Portfolio</h3>
-<p>
-Aquí compartiré proyectos de análisis de datos, visualizaciones
-y soluciones tecnológicas desarrolladas durante mi formación.
+<p align="center">
+  <strong>📊 DATA ANALYSIS // BUSINESS INTELLIGENCE</strong>
 </p>
-<p>
-<img src="https://img.shields.io/badge/Reports-0B0D12?style=for-the-badge&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/Insights-0B0D12?style=for-the-badge&logoColor=00E5FF"/>
-</p>
-<p><a href="https://github.com/monyguerrero09-collab"><strong>→ Explorar proyectos</strong></a></p>
-</td>
-</tr>
-</table>
 
-<!-- NEON CYBER LASER -->
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=00E5FF&height=2&section=header" width="100%" alt="Divider"/></p>
+<p align="center">
+  Me interesa transformar datos en información útil mediante
+  <strong>análisis, visualización y herramientas de Business Intelligence</strong>.
+</p>
+
+<p align="center">
+  He trabajado con <strong>Power BI</strong> para desarrollar dashboards
+  orientados a facilitar la interpretación de información y apoyar
+  la toma de decisiones.
+</p>
+
+<br>
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/POWER_BI-00E5FF?style=for-the-badge&logo=powerbi&logoColor=05070D" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/DAX-0B0D12?style=for-the-badge&logoColor=00E5FF" alt="DAX"/>
+  <img src="https://img.shields.io/badge/PANDAS-0B0D12?style=for-the-badge&logo=pandas&logoColor=00E5FF" alt="Pandas"/>
+
+</p>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- TECH STACK                                                      -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <a name="toolbox"></a>
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00E5FF&height=50&text=🛠️%20OPEN-SOURCE%20TOOLBOX&fontSize=26&fontAlign=left&fontAlignY=70" alt="Toolbox"/>
-
-<p><code>monyguerrero09-collab@github ~ $ toolbox --list</code></p>
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=monyguerrero09-collab&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F258127032%3Fu%3D5d2be8564809945b743511de3286aa86ec21fa25%26v%3D4&style=terminal&v=oss-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=monyguerrero09-collab&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F258127032%3Fu%3D5d2be8564809945b743511de3286aa86ec21fa25%26v%3D4&style=terminal&v=oss-stack-1&mode=dark" width="100%" alt="Mónica Olvera open-source technology toolbox" />
-</picture>
+  <img
+    src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00E5FF&height=55&text=05%20%2F%2F%20TECH%20STACK&fontSize=25&fontAlign=center&fontAlignY=70"
+    alt="Tech stack"
+  />
 </p>
 
-<blockquote>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,py,django,html,css,js,git,github,vscode&theme=dark" alt="Devicon Stack" />
+  <code>monyguerrero09-collab@github ~ $ toolbox --list</code>
+</p>
+
+<br>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=php,laravel,python,django,html,css,js,git,github,vscode&theme=dark"
+    width="90%"
+    alt="Technology stack"
+  />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Power_BI-0B0D12?style=for-the-badge&logo=powerbi&logoColor=00E5FF" alt="Power BI"/>
   <img src="https://img.shields.io/badge/n8n-0B0D12?style=for-the-badge&logo=n8n&logoColor=00E5FF" alt="n8n"/>
-  <img src="https://img.shields.io/badge/Pinecone-0B0D12?style=for-the-badge&logo=pinecone&logoColor=00E5FF" alt="Pinecone"/>
+  <img src="https://img.shields.io/badge/Pinecone-0B0D12?style=for-the-badge&logoColor=00E5FF" alt="Pinecone"/>
+  <img src="https://img.shields.io/badge/IoT-0B0D12?style=for-the-badge&logoColor=00E5FF" alt="IoT"/>
 </p>
+
+<br>
 
 <p align="center">
-<sub>Technologies and tools to be updated according to my current projects.</sub>
+  <sub>
+    Technologies and tools used across my academic, professional and personal projects.
+  </sub>
 </p>
-</blockquote>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00E5FF&height=2&section=header" width="92%" alt="Divider"/>
+</p>
+
+<br>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- RADAR VISUALIZATION — GITHUB HIGH-RES CLOUD RENDER             -->
+<!-- GITHUB ACTIVITY                                                 -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h3 align="center"><img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00E5FF&height=35&text=◈%20TECHNICAL%20CAPABILITY%20MATRIX&fontSize=18&fontAlign=center&fontAlignY=70" alt="Tech Matrix"/></h3>
+<a name="activity"></a>
 
 <p align="center">
   <img
-    src="https://quickchart.io/chart?width=800&height=520&devicePixelRatio=2&backgroundColor=%230B0D12&c=%7B%22type%22%3A%22radar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22PHP%20/%20Laravel%22%2C%22Python%20/%20Django%22%2C%22Power%20BI%20/%20DAX%22%2C%22IoT%22%2C%22n8n%20/%20Automatizaci%5Cu00f3n%22%2C%22Bases%20de%20datos%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Perfil%20actual%22%2C%22data%22%3A%5B88%2C86%2C94%2C78%2C82%2C84%5D%2C%22backgroundColor%22%3A%22rgba%280%2C229%2C255%2C0.25%29%22%2C%22borderColor%22%3A%22%2300E5FF%22%2C%22borderWidth%22%3A2%2C%22pointBackgroundColor%22%3A%22%2300E5FF%22%2C%22pointBorderColor%22%3A%22%230B0D12%22%2C%22pointRadius%22%3A4%7D%2C%7B%22label%22%3A%22Nivel%20objetivo%202026%22%2C%22data%22%3A%5B95%2C95%2C98%2C90%2C90%2C92%5D%2C%22backgroundColor%22%3A%22rgba%28139%2C92%2C246%2C0.12%29%22%2C%22borderColor%22%3A%22%238B5CF6%22%2C%22borderWidth%22%3A2%2C%22borderDash%22%3A%5B6%2C4%5D%2C%22pointBackgroundColor%22%3A%22%238B5CF6%22%2C%22pointBorderColor%22%3A%22%230B0D12%22%2C%22pointRadius%22%3A3%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22display%22%3Atrue%2C%22position%22%3A%22bottom%22%2C%22labels%22%3A%7B%22color%22%3A%22%23A9B2BC%22%2C%22font%22%3A%7B%22size%22%3A12%7D%7D%7D%2C%22title%22%3A%7B%22display%22%3Afalse%7D%7D%2C%22scales%22%3A%7B%22r%22%3A%7B%22min%22%3A0%2C%22max%22%3A100%2C%22ticks%22%3A%7B%22display%22%3Afalse%2C%22stepSize%22%3A20%7D%2C%22grid%22%3A%7B%22color%22%3A%22rgba%28169%2C178%2C188%2C0.15%29%22%7D%2C%22angleLines%22%3A%7B%22color%22%3A%22rgba%28169%2C178%2C188%2C0.25%29%22%7D%2C%22pointLabels%22%3A%7B%22color%22%3A%22%23F0F6FC%22%2C%22font%22%3A%7B%22size%22%3A12%2C%22weight%22%3A%22bold%22%7D%7D%7D%7D%7D%7D"
-    width="800"
-    alt="Radar chart showing current skill profile versus 2026 target across six technical areas"
+    src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00E5FF&height=55&text=06%20%2F%2F%20GITHUB%20ACTIVITY&fontSize=25&fontAlign=center&fontAlignY=70"
+    alt="GitHub activity"
   />
 </p>
 
 <p align="center">
-  <sub>Perfil actual (cian) vs. nivel objetivo 2026 (púrpura punteado) · imagen estática de alta resolución, 100% compatible con GitHub.</sub>
+  <code>monyguerrero09-collab@github ~ $ activity --monitor</code>
 </p>
 
-<!-- NEON CYBER LASER -->
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=00E5FF&height=2&section=header" width="100%" alt="Divider"/></p>
-
-<a name="activity"></a>
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00E5FF&height=50&text=📈%20CONTRIBUTION%20ACTIVITY&fontSize=26&fontAlign=left&fontAlignY=70" alt="Activity"/>
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=monyguerrero09-collab&show_icons=true&hide_border=true&bg_color=0B0D12&title_color=00E5FF&icon_color=00E5FF&text_color=A9B2BC" alt="GitHub Stats"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monyguerrero09-collab&layout=compact&hide_border=true&bg_color=0B0D12&title_color=00E5FF&text_color=A9B2BC" alt="Top Languages"/>
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=monyguerrero09-collab&hide_border=true&background=0B0D12&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideNums=A9B2BC&sideLabels=A9B2BC&dates=A9B2BC" alt="Contribution streak"/>
-  <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=monyguerrero09-collab&theme=onedark&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&margin-h=8" alt="GitHub trophies"/>
-</div>
-
-<!-- NEON CYBER LASER -->
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=00E5FF&height=2&section=header" width="100%" alt="Divider"/></p>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00E5FF&height=50&text=🔥%20CONTRIBUTION%20TRAIL&fontSize=26&fontAlign=left&fontAlignY=70" alt="Trail"/>
+<br>
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=monyguerrero09-collab&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F258127032%3Fu%3D5d2be8564809945b743511de3286aa86ec21fa25%26v%3D4&v=oss-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=monyguerrero09-collab&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F258127032%3Fu%3D5d2be8564809945b743511de3286aa86ec21fa25%26v%3D4&style=terminal&v=oss-heatmap-1&mode=dark" width="100%" alt="Mónica Olvera contribution trail" />
-</picture>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=monyguerrero09-collab&show_icons=true&hide_border=true&bg_color=0B0D12&title_color=00E5FF&icon_color=00E5FF&text_color=A9B2BC"
+    width="90%"
+    alt="GitHub statistics"
+  />
 </p>
 
-<!-- NEON CYBER LASER -->
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=00E5FF&height=2&section=header" width="100%" alt="Divider"/></p>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=monyguerrero09-collab&layout=compact&hide_border=true&bg_color=0B0D12&title_color=00E5FF&text_color=A9B2BC"
+    width="90%"
+    alt="Top programming languages"
+  />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00E5FF&height=50&text=📚%20CURRENTLY%20LEARNING&fontSize=26&fontAlign=left&fontAlignY=70" alt="Learning"/>
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=monyguerrero09-collab&hide_border=true&background=0B0D12&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideNums=A9B2BC&sideLabels=A9B2BC&dates=A9B2BC"
+    width="90%"
+    alt="Contribution streak"
+  />
+</p>
 
-<blockquote>
-<ul>
-<li>💻 Software development and engineering practices.</li>
-<li>🤖 Artificial intelligence and automation.</li>
-<li>📊 Data analysis and Business Intelligence.</li>
-<li>🌐 Web technologies and IoT solutions.</li>
-</ul>
-</blockquote>
+<br>
 
-<!-- NEON CYBER LASER -->
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=00E5FF&height=2&section=header" width="100%" alt="Divider"/></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00E5FF&height=2&section=header" width="92%" alt="Divider"/>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00E5FF&height=50&text=🏆%20ACHIEVEMENTS&fontSize=26&fontAlign=left&fontAlignY=70" alt="Achievements"/>
+<br>
 
-<blockquote>
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-<h3>🏅 InnovaTec</h3>
-<p>Doble participación en el Certamen Nacional de Innovación Tecnológica.</p>
-</td>
-<td width="50%" valign="top">
-<h3>💡 Innovation projects</h3>
-<p>Participación en proyectos tecnológicos e interdisciplinarios durante mi formación universitaria.</p>
-</td>
-</tr>
-</table>
-</blockquote>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- CURRENTLY LEARNING                                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!-- NEON CYBER LASER -->
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=00E5FF&height=2&section=header" width="100%" alt="Divider"/></p>
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00E5FF&height=55&text=07%20%2F%2F%20CURRENTLY%20LEARNING&fontSize=25&fontAlign=center&fontAlignY=70"
+    alt="Currently learning"
+  />
+</p>
+
+<p align="center">
+  <code>monyguerrero09-collab@github ~ $ learning --active</code>
+</p>
+
+<br>
+
+<p align="center">
+  <strong>💻 SOFTWARE DEVELOPMENT</strong>
+  <br>
+  <sub>Development and engineering practices</sub>
+</p>
+
+<p align="center">
+  <strong>🤖 ARTIFICIAL INTELLIGENCE</strong>
+  <br>
+  <sub>AI and automation</sub>
+</p>
+
+<p align="center">
+  <strong>📊 DATA</strong>
+  <br>
+  <sub>Data analysis and Business Intelligence</sub>
+</p>
+
+<p align="center">
+  <strong>🌐 IoT & TECHNOLOGY</strong>
+  <br>
+  <sub>Web technologies and connected solutions</sub>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00E5FF&height=2&section=header" width="92%" alt="Divider"/>
+</p>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- CONNECT                                                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <a name="connect"></a>
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00E5FF&height=50&text=🤝%20LET'S%20CONNECT&fontSize=26&fontAlign=center&fontAlignY=70" alt="Connect"/>
 
 <p align="center">
-Estoy abierta a aprender, colaborar en proyectos y conectar con personas interesadas en tecnología, innovación y desarrollo de software.
+  <img
+    src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00E5FF&height=55&text=08%20%2F%2F%20LET%27S%20CONNECT&fontSize=25&fontAlign=center&fontAlignY=70"
+    alt="Let's connect"
+  />
+</p>
+
+<p align="center">
+  <code>monyguerrero09-collab@github ~ $ connect --open</code>
 </p>
 
 <br>
 
 <p align="center">
-<a href="https://github.com/monyguerrero09-collab">
-<img src="https://img.shields.io/badge/GitHub-0B0D12?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub"/>
-</a>
-<a href="mailto:monyguerrero.dev@gmail.com">
-<img src="https://img.shields.io/badge/Email-0B0D12?style=for-the-badge&logo=gmail&logoColor=00E5FF" alt="Email"/>
-</a>
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-0B0D12?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn"/>
-</a>
+  Estoy abierta a aprender, colaborar en proyectos y conectar con
+  personas interesadas en <strong>tecnología, innovación y desarrollo de software</strong>.
 </p>
 
 <br>
-<p align="center"><a href="#about"><img src="https://img.shields.io/badge/↑_BACK_TO_TOP-0B0D12?style=for-the-badge&logoColor=00E5FF&color=00E5FF" alt="Back to top"/></a></p>
 
 <p align="center">
-<sub><code style="color:#00E5FF">Mónica Olvera · Engineering student · Technology & Innovation</code></sub>
+
+  <a href="https://github.com/monyguerrero09-collab">
+    <img
+      src="https://img.shields.io/badge/GITHUB-0B0D12?style=for-the-badge&logo=github&logoColor=00E5FF"
+      alt="GitHub"
+    />
+  </a>
+
+  <a href="mailto:monyguerrero.dev@gmail.com">
+    <img
+      src="https://img.shields.io/badge/EMAIL-0B0D12?style=for-the-badge&logo=gmail&logoColor=00E5FF"
+      alt="Email"
+    />
+  </a>
+
+  <a href="https://linkedin.com">
+    <img
+      src="https://img.shields.io/badge/LINKEDIN-0B0D12?style=for-the-badge&logo=linkedin&logoColor=00E5FF"
+      alt="LinkedIn"
+    />
+  </a>
+
 </p>
 
+<br>
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- FOOTER VISUAL                                                   -->
+<!-- BACK TO TOP                                                     -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:101827,100:0B0D12&height=90&section=footer" width="100%" alt="Futuristic footer"/>
+  <a href="#about">
+    <img
+      src="https://img.shields.io/badge/↑_BACK_TO_TOP-00E5FF?style=for-the-badge&labelColor=05070D"
+      alt="Back to top"
+    />
+  </a>
 </p>
 
+<br>
+
+<p align="center">
+  <code>MÓNICA OLVERA // ENGINEERING STUDENT // TECHNOLOGY & INNOVATION</code>
+</p>
+
+<br>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:102033,100:030508&height=100&section=footer"
+    width="100%"
+    alt="Futuristic footer"
+  />
+</p>
